@@ -141,12 +141,12 @@
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{header}{gray}{0.2}
 \definecolor{footer}{gray}{0.2}
-\definecolor{chapternum}{gray}{0.8}
+\definecolor{chapternum}{gray}{0.4}
 \definecolor{chaptertitle}{gray}{0.2}
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
-\definecolor{section}{gray}{0.5}
+\definecolor{section}{gray}{0.2}
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
 \definecolor{partname}{gray}{0.5}
@@ -163,13 +163,18 @@
 % Renderer = Basic
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
+%\setmainfont[
+%  SmallCapsFont = Crimson-Roman.otf,
+%  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
+%  ItalicFont = GentiumPlus-I.ttf,
+%  BoldFont = GenBkBasB.ttf,
+%  BoldItalicFont = GenBkBasBI.ttf,
+%]{GentiumPlus-R.ttf}
+
 \setmainfont[
-  SmallCapsFont = Crimson-Roman.otf,
-  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
+  Path = {./assets/fonts/},
+  ItalicFont = EBGaramond12-Italic.otf,
+]{EBGaramond12-Regular.otf}
 
 \newfontfamily\crimsonRomanFont[
   SmallCapsFeatures= { LetterSpace = 0.2 },
@@ -187,6 +192,12 @@
   BoldItalicFont = GenBkBasBI.ttf,
 ]{GentiumPlus-R.ttf}
 
+\newfontfamily\glacialIndifferenceFont{GlacialIndifferenceX-Regular.ttf}
+
+\newfontfamily\spectralScLightFont{SpectralSC-Light.otf}
+
+\newfontfamily\muktaLightFont{Mukta-ExtraLight.ttf}
+
 % header and footer
 
 \newcommand\headerFont\crimsonRomanFont
@@ -197,13 +208,13 @@
 
 \newcommand\partTitleFont\crimsonRomanFont
 
-\newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\crimsonRomanFont
-\newcommand\chapterNumberFont\crimsonRomanFont
+\newcommand\chapterTitleFont\glacialIndifferenceFont
+\newcommand\chapterNameFont\spectralScLightFont
+\newcommand\chapterNumberFont\spectralScLightFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
-\newcommand\sectionFont\crimsonRomanFont
+\newcommand\sectionFont\muktaLightFont
 
 % quote
 
@@ -217,8 +228,8 @@
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {22}{24}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13}{16.5}}
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {8}{8}}
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {18}{18}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
@@ -231,7 +242,7 @@
 
 % foreign language wrappers
 
-\newfontfamily\thaiFont{Kinnari.ttf}
+\newfontfamily\thaiFont[Scale = 1.5]{THSarabunNew.ttf}
 
 \newcommand*\thai[1]{{\thaiFont #1}}
 
@@ -241,6 +252,9 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={GlacialIndifferenceX-Regular.ttf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={SpectralSC-Light.otf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={Mukta-ExtraLight.ttf}}{20}
 
 % === hyperref ===
 
@@ -1089,28 +1103,31 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newlength\chapterTitleLeftSkip
-\setlength{\chapterTitleLeftSkip}{17pt}
+\setlength{\chapterTitleLeftSkip}{0pt}
 
 \makechapterstyle{lowtitle}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{30mm}
-  \setlength{\chapterTitleLeftSkip}{17pt}
+  \setlength{\beforechapskip}{-10mm}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
   \renewcommand\printchapternum{%
+    \centering
     \chapnumfont\color{chapternum}%
-    \hspace*{\chapterTitleLeftSkip}\thechapter%
+    \textls*{\MakeLowercase{\numToItalian{\thechapter}}}%
   }
-  \setlength{\midchapskip}{2\onelineskip}
+  \setlength{\midchapskip}{30mm}
   \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
   \renewcommand\printchapternonum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
   \renewcommand*\printchaptertitle[1]{%
-    \raggedright\hspace*{\chapterTitleLeftSkip}%
-    \parbox{\linewidth - \chapterTitleLeftSkip}{%
-      \raggedright\chaptitlefont\color{chaptertitle}%
+    \centering%
+    \parbox{\linewidth}{%
+      \centering%
+      \chaptitlefont\color{chaptertitle}%
       \textls*{\MakeUppercase{##1}}%
+      \vskip 15mm%
+      {\color[gray]{0.05}\rule{\linewidth}{0.4pt}}%
       \ifchapterfootnote%
         \hspace*{2pt}\theChapterFootnoteMark%
       \fi%
@@ -1130,8 +1147,14 @@ philo-sophical munindo amaravati thai-land}
       \global\chapterfootnotefalse%
     \fi%
   }
-  \setlength{\afterchapskip}{2.5\onelineskip}
+  \setlength{\afterchapskip}{20mm}
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
+}
+
+% #1: counter
+\newcommand{\numToItalian}[1]{%
+  % FIXME auto numbering
+  capitolo trentotto%
 }
 
 \makechapterstyle{hightitle}{
@@ -1524,17 +1547,17 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\fontsize{11.5}{14}\selectfont%
-  \color{section}%
-  \centering
-  \textls{\MakeUppercase{#1}}%
-}
-
-\newcommand\subsectionFmt[1]{%
   \sectionFont\fontsize{10}{13}\selectfont%
   \color{section}%
   \memRTLraggedright%
   \textls{\MakeUppercase{#1}}%
+}
+
+\newcommand\subsectionFmt[1]{%
+  \sectionFont\fontsize{8}{10}\selectfont%
+  \color{section}%
+  \memRTLraggedright%
+  #1%
 }
 
 \newcommand\subsubsectionFmt[1]{%
@@ -1565,8 +1588,13 @@ philo-sophical munindo amaravati thai-land}
 
 % === normalsize ===
 
-\def\BOOK@fontSizePt{10.5}
+% for EB Garamond
+\def\BOOK@fontSizePt{11}
 \def\BOOK@lineHeightPt{15}
+
+% for Gentium
+%\def\BOOK@fontSizePt{10.5}
+%\def\BOOK@lineHeightPt{15}
 
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
@@ -1612,10 +1640,12 @@ philo-sophical munindo amaravati thai-land}
 %\settypeblocksize{34\baselineskip + \topskip}{*}{0.599}% 1/1.667, 3:5, major 6th
 %\setlrmargins{*}{20mm}{*}% 22.71669mm and 19.99976mm
 
-\settypeblocksize{190mm}{110mm}{*}
+\settypeblocksize{187mm}{110mm}{*}
 \setlrmargins{*}{20mm}{*}
 
-\setulmargins{42pt}{*}{*}% Based on Tall Pentagon, 1.701
+\setulmargins{18mm}{*}{1.701}
+\setlength{\headsep}{15pt}
+
 \setlength{\footskip}{30pt}
 
 % Fixes these warnings:
