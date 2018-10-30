@@ -174,6 +174,8 @@
 \setmainfont[
   Path = {./assets/fonts/},
   ItalicFont = EBGaramond12-Italic.otf,
+  BoldFont = Crimson-Semibold.otf,
+  BoldItalicFont = Crimson-SemiboldItalic.otf,
 ]{EBGaramond12-Regular.otf}
 
 \newfontfamily\crimsonRomanFont[
@@ -1114,7 +1116,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\printchapternum{%
     \centering
     \chapnumfont\color{chapternum}%
-    \textls*{\MakeLowercase{\numToItalian{\thechapter}}}%
+    \textls*{\MakeLowercase{capitolo \numToItalian{\thechapter}}}%
   }
   \setlength{\midchapskip}{30mm}
   \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
@@ -1149,12 +1151,6 @@ philo-sophical munindo amaravati thai-land}
   }
   \setlength{\afterchapskip}{20mm}
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
-}
-
-% #1: counter
-\newcommand{\numToItalian}[1]{%
-  % FIXME auto numbering
-  capitolo trentotto%
 }
 
 \makechapterstyle{hightitle}{
