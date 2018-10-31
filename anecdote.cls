@@ -149,8 +149,8 @@
 \definecolor{section}{gray}{0.2}
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
-\definecolor{partname}{gray}{0.5}
-\definecolor{parttitle}{gray}{0.5}
+\definecolor{partname}{gray}{0.2}
+\definecolor{parttitle}{gray}{0.2}
 \definecolor{linkborder}{rgb}{0.4,0.4,1}% light blue
 \definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 
@@ -177,6 +177,17 @@
   BoldFont = Crimson-Semibold.otf,
   BoldItalicFont = Crimson-SemiboldItalic.otf,
 ]{EBGaramond12-Regular.otf}
+
+\newfontfamily\ebGaramondFont[
+  Path = {./assets/fonts/},
+  ItalicFont = EBGaramond12-Italic.otf,
+  BoldFont = Crimson-Semibold.otf,
+  BoldItalicFont = Crimson-SemiboldItalic.otf,
+]{EBGaramond12-Regular.otf}
+
+\newfontfamily\ebGaramondSmallCapsFont[
+  Path = {./assets/fonts/},
+]{EBGaramond12-AllSC.otf}
 
 \newfontfamily\crimsonRomanFont[
   SmallCapsFeatures= { LetterSpace = 0.2 },
@@ -208,7 +219,7 @@
 
 % chapter and section
 
-\newcommand\partTitleFont\crimsonRomanFont
+\newcommand\partTitleFont\muktaLightFont
 
 \newcommand\chapterTitleFont\glacialIndifferenceFont
 \newcommand\chapterNameFont\spectralScLightFont
@@ -257,6 +268,7 @@
 \SetTracking[spacing={400,100,}]{encoding=*, family={GlacialIndifferenceX-Regular.ttf}}{20}
 \SetTracking[spacing={400,100,}]{encoding=*, family={SpectralSC-Light.otf}}{20}
 \SetTracking[spacing={400,100,}]{encoding=*, family={Mukta-ExtraLight.ttf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={EBGaramond12-AllSC.otf}}{50}
 
 % === hyperref ===
 
@@ -524,7 +536,6 @@ philo-sophical munindo amaravati thai-land}
 % for longer sutta and book quotes
 \renewenvironment{quote}%
 {\list{}{%
-    \itshape
     \listparindent 0pt
     \itemindent    \listparindent
     \leftmargin    \quoteMargin
@@ -810,14 +821,15 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \addtodef{\backmatter}{}{%
+  \addtocontents{toc}{\addvspace{25pt}}%
   \bookmarksetup{startatroot}%
 }
 
-\renewenvironment{quote}%
-{\small
-\list{}{\rightmargin\leftmargin}%
-\item[]}%
-{\endlist}
+%\renewenvironment{quote}%
+%{\small
+%\list{}{\rightmargin\leftmargin}%
+%\item[]}%
+%{\endlist}
 
 \newcommand\quoteref[1]{%
 \par
@@ -963,25 +975,25 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{part}[\tocLeftWidth]
 {\addvspace{25pt}%
-\fontsize{11}{11}\crimsonRomanFont\selectfont}%
+\fontsize{12}{12}\partTitleFont\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space
-  \hspace*{1em}%
-  \MakeUppercase
+  \hspace*{0.5em}%
+  \textls%
 }
 {\contentsmargin{0pt}}
 {}
 
 \titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{15pt}\fontsize{13}{13}\gentiumFont\selectfont}%
+{\addvspace{15pt}\fontsize{13}{13}\ebGaramondFont\selectfont}%
 {\contentsmargin{0pt}}
 {\contentsmargin{0pt}%
 \itshape}
 {\hfill\normalsize\tocFont\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
-{\addvspace{30pt}\fontsize{13}{13}\crimsonRomanFont\bfseries\selectfont}%
+{\addvspace{30pt}\fontsize{13}{13}\ebGaramondFont\bfseries\selectfont}%
 {\contentsmargin{0pt}%
 \itshape}
 {\contentsmargin{0pt}%
@@ -1007,7 +1019,7 @@ philo-sophical munindo amaravati thai-land}
 
 \renewcommand{\partnamefont}{\Huge\partTitleFont\color{partname}}
 \renewcommand{\partnumfont}{\Huge\partTitleFont\color{partname}}
-\renewcommand{\parttitlefont}{\large\partTitleFont\color{parttitle}\MakeUppercase}
+\renewcommand{\parttitlefont}{\fontsize{12}{12}\selectfont\partTitleFont\color{parttitle}\textls}
 \renewcommand*{\midpartskip}{\par\vskip 10pt}%
 
 % FIXME: Currently, if there isn't a part title, we have to do
@@ -1031,10 +1043,9 @@ philo-sophical munindo amaravati thai-land}
   \fi
   \partmark{#1}%
   {%
-    \raggedright
-    \hspace*{\chapterTitleLeftSkip}%
-    \begin{minipage}{\linewidth - \chapterTitleLeftSkip}
-      \raggedright
+    \centering
+    \begin{minipage}{\linewidth}
+      \centering
       \interlinepenalty \@M
       \parskip\z@
       \ifthisparthasnote
@@ -1045,7 +1056,7 @@ philo-sophical munindo amaravati thai-land}
       \fi
       \normalfont
       \ifnum \c@secnumdepth >-2\relax
-        \resizebox{2.8cm}{!}{\printpartname \partnamenum \printpartnum}
+        {\printpartname \partnamenum \printpartnum}%
         \par\vskip 20pt
       \fi
       \ifthisparthastitle
@@ -1543,7 +1554,7 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\fontsize{10}{13}\selectfont%
+  \sectionFont\fontsize{12}{16}\selectfont%
   \color{section}%
   \memRTLraggedright%
   \textls{\MakeUppercase{#1}}%
