@@ -407,6 +407,14 @@ philo-sophical munindo amaravati thai-land}
 \newcounter{pageRem}
 \newcounter{origPage}
 
+% Add empty pages for a total page count divisible by 2 without remainder.
+\newcommand{\emptyUntilModTwo}{%
+  \ifodd\thepage
+    \clearpage%
+    \thispagestyle{empty}\mbox{}%
+  \fi
+}
+
 % Add empty pages for a total page count divisible by 8 without remainder.
 \newcommand{\emptyUntilModEight}{%
   \setcounter{origPage}{\theCurrentPage}%
@@ -545,6 +553,23 @@ philo-sophical munindo amaravati thai-land}
     \partopsep     0pt}%
 \item[]}%
 {\endlist}
+
+% for longer sutta and book quotes
+\newenvironment{openingQuote}%
+{\list{}{%
+    \itshape
+    \listparindent 0pt
+    \itemindent    \listparindent
+    \leftmargin    \quoteMargin
+    \rightmargin   \quoteMargin
+    \parsep        8pt
+    \topsep        0pt
+    \partopsep     0pt}%
+\item[]}%
+{%
+  \endlist%
+  \vspace*{15pt}%
+}
 
 \newcommand{\quoteTitle}[1]{%
   {%
@@ -1129,7 +1154,7 @@ philo-sophical munindo amaravati thai-land}
     \chapnumfont\color{chapternum}%
     \textls*{\MakeLowercase{capitolo \numToItalian{\thechapter}}}%
   }
-  \setlength{\midchapskip}{30mm}
+  \setlength{\midchapskip}{27mm}
   \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
   \renewcommand\printchapternonum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
@@ -1139,7 +1164,7 @@ philo-sophical munindo amaravati thai-land}
       \centering%
       \chaptitlefont\color{chaptertitle}%
       \textls*{\MakeUppercase{##1}}%
-      \vskip 15mm%
+      \vskip 8mm%
       {\color[gray]{0.05}\rule{\linewidth}{0.4pt}}%
       \ifchapterfootnote%
         \hspace*{2pt}\theChapterFootnoteMark%
@@ -1160,7 +1185,7 @@ philo-sophical munindo amaravati thai-land}
       \global\chapterfootnotefalse%
     \fi%
   }
-  \setlength{\afterchapskip}{20mm}
+  \setlength{\afterchapskip}{15mm}
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
 }
 
