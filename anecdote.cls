@@ -1145,7 +1145,7 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{lowtitle}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{-10mm}
+  \setlength{\beforechapskip}{-38.5pt}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
@@ -1154,7 +1154,7 @@ philo-sophical munindo amaravati thai-land}
     \chapnumfont\color{chapternum}%
     \textls*{\MakeLowercase{capitolo \numToItalian{\thechapter}}}%
   }
-  \setlength{\midchapskip}{27mm}
+  \setlength{\midchapskip}{30mm}
   \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
   \renewcommand\printchapternonum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
