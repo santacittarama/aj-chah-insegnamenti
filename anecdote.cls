@@ -1164,11 +1164,11 @@ philo-sophical munindo amaravati thai-land}
       \centering%
       \chaptitlefont\color{chaptertitle}%
       \textls*{\MakeUppercase{##1}}%
-      \vskip 8mm%
-      {\color[gray]{0.05}\rule{\linewidth}{0.4pt}}%
       \ifchapterfootnote%
         \hspace*{2pt}\theChapterFootnoteMark%
       \fi%
+      \vskip 8mm%
+      {\color[gray]{0.05}\rule{\linewidth}{0.4pt}}%
       \ifchapterauthor%
         \vskip 0.5\onelineskip%
         \chapterAuthorFmt{\theChapterAuthor}%
@@ -1197,8 +1197,15 @@ philo-sophical munindo amaravati thai-land}
     {%
       \centering\chaptitlefont\color{chaptertitle}%
       \textls*{\MakeUppercase{##1}}%
+      \ifchapterfootnote%
+        \hspace*{2pt}\theChapterFootnoteMark%
+      \fi%
       \par
     }%
+    \ifchapterfootnote%
+      \theChapterFootnoteText%
+      \global\chapterfootnotefalse%
+    \fi%
   }
 }
 
@@ -1747,5 +1754,5 @@ philo-sophical munindo amaravati thai-land}
 
 % Asterisks for the first three footnotes, then numbers produced by the
 % 'symbol*' option.
-\DefineFNsymbols{anecdote}{*{**}{***}}
+\DefineFNsymbols{anecdote}{*{**}{***}{****}}
 \setfnsymbol{anecdote}
