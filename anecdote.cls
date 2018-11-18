@@ -174,15 +174,15 @@
 \setmainfont[
   Path = {./assets/fonts/},
   ItalicFont = EBGaramond12-Italic.otf,
-  BoldFont = Crimson-Semibold.otf,
-  BoldItalicFont = Crimson-SemiboldItalic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
 ]{EBGaramond12-Regular.otf}
 
 \newfontfamily\ebGaramondFont[
   Path = {./assets/fonts/},
   ItalicFont = EBGaramond12-Italic.otf,
-  BoldFont = Crimson-Semibold.otf,
-  BoldItalicFont = Crimson-SemiboldItalic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
 ]{EBGaramond12-Regular.otf}
 
 \newfontfamily\ebGaramondSmallCapsFont[
@@ -191,8 +191,9 @@
 
 \newfontfamily\crimsonRomanFont[
   SmallCapsFeatures= { LetterSpace = 0.2 },
-  BoldFont = Crimson-Semibold.otf,
   ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
 ]{Crimson-Roman.otf}
 
 \newfontfamily\crimsonRomanFontOldNum[
@@ -792,7 +793,7 @@ philo-sophical munindo amaravati thai-land}
 {\endlist}
 
 \newcommand*{\glossaryDescriptionlabel}[1]{%
-  \normalfont\textbf{#1}%
+  \crimsonRomanFont\textbf{#1}%
   \hspace*{\labelsep}%
 }
 
