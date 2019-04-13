@@ -1,4 +1,4 @@
-== Il monastero della confusione
+= Il monastero della confusione
 
 Non è importante restare o andare, lo è quel che pensiamo. Perciò, per
 favore, tutti voi lavorate insieme, collaborate e vivete in armonia.
@@ -120,7 +120,7 @@ risultati arriveranno.
 Avete qualche dubbio sulla pratica che ora sentite il bisogno di
 risolvere?
 
-=== Domande e risposte
+== Domande e risposte
 
 _Domanda._ Quando la mente non pensa molto, ma si trova in uno stato
 oscuro e offuscato, c’è qualcosa che possiamo fare per rischiararla?
