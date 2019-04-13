@@ -1,9 +1,13 @@
 #!/bin/bash
 
-for i in ./manuscript/tex/[0-9][0-9]*.tex; do
+for i in ./manuscript/tex/*.tex; do
+    if [ $(basename "$i") == "titlepage.tex" -o \
+	$(basename "$i") == "copyright.tex" -o \
+	$(basename "$i") == "copyright-details.tex" -o \
+	$(basename "$i") == "dedication.tex" ]
+    then
+	continue
+    fi
     ./helpers/tex_to_asciidoc.sh "$i"
 done
 
-./helpers/tex_to_asciidoc.sh ./manuscript/tex/foreword.tex
-
-./helpers/tex_to_asciidoc.sh ./manuscript/tex/preface.tex
