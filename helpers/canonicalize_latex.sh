@@ -17,6 +17,8 @@ perl -0777 -pe "s/\\\\begin\{dialogue\}(.*?)\\\\end\{dialogue\}/\\\\begin{quote}
 perl -0777 -pe "s/\\\\begin\{siderule-quote\}(.*?)\\\\end\{siderule-quote\}/\\\\begin{quote}\n\1\\\\end{quote}/gs" | \
 # \begin{openingVerse} > \begin{verse}
 perl -0777 -pe "s/\\\\begin\{openingVerse\}(.*?)\\\\end\{openingVerse\}/\\\\begin{verse}% <attr role=opening-verse>\n\\\\itshape \1\\\\end{verse}/gs" | \
+# \begin{openingQuote} > \begin{verse}
+perl -0777 -pe "s/\\\\begin\{openingQuote\}(.*?)\\\\end\{openingQuote\}/\\\\begin{verse}\n\1\\\\end{verse}/gs" | \
 # \begin{packeditemize} > \begin{itemize}
 perl -0777 -pe "s/\\\\begin\{packeditemize\}(.*?)\\\\end\{packeditemize\}/\\\\begin{itemize}\n\1\\\\end{itemize}/gs" | \
 # glossarydescription
