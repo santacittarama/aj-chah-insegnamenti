@@ -1,13 +1,11 @@
 [#titlepage]
 = {booktitle}
 
-[role=titlepage-author]
-{author}
+[role=titlepage-translator]
+_Traduzione Italiana di_ +
+_Roberto Paciocco_
 
 image::{pubs-logo}[role=titlepage-pubs-logo]
-
-[role=titlepage-publisher]
-{publisher-name}
 
 [role=titlepage-publisher-website]
 link:{publisher-link-url}[{publisher-link-name}]

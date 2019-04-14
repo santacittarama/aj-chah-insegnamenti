@@ -1,14 +1,22 @@
-== Glossario
+[#glossary, glossary]
+= Glossario
 
 Si è cercato quanto più possibile di rispettare la forma corretta sia dal punto di vista grammaticale che tecnico di termini e concetti in italiano; i sostantivi in lingua pāli sono in genere allo stato tematico, mentre la forma nominativa, singolare o plurale, è indicata tra parentesi tonde qualora essa corrisponda a quella di solito ricorrente. Per alcune integrazioni ci si è avvalsi del glossario contenuto in _La Rivelazione del Buddha_, I: _I testi antichi_, a cura di R. Gnoli, Milano 2007 (I Meridiani. Classici dello Spirito).
 
-Abhidhamma.::
+[role=top-anchor]
+[[top]]&#160;
+
+include::glossary-index.adoc[]
+
+Abhidhamma.[[abhidhamma]]::
   {empty}(1) Nei discorsi del Canone in pāli questo termine indica
   semplicemente il “Dhamma più elevato”, nonché un tentativo
   sistematico di definire gli insegnamenti del Buddha e di comprendere
   le loro correlazioni. (2) Terza parte del Canone in pāli, composta di
   trattati analitici basati su elenchi di categorie estratte dai
   discorsi del Buddha.
+  <<top,<- top>>
+
 ācariya.::
   Insegnante, mentore, maestro; → _ajahn_; → _kalyāṇamitta_.
 adhiṭṭhāna.::
@@ -341,11 +349,13 @@ hiri-ottappa.::
   per noi stessi. _Ottappa_ è una salutare paura di compiere azioni non
   salutari che potrebbero recare danno a noi stessi o agli altri;
   → kamma.
-iddhipāda.::
+
+iddhipāda.[[iddhipada]]::
   Base del potere psichico; sentiero del successo spirituale. I quattro
   _iddhipāda_ sono lo zelo (→ _chanda_), lo sforzo (→ _viriya_),
   l’applicazione della mente (→ _citta_) e l’investigazione
   (→ _vīmaṃsā_).
+
 Illuminazione::
   (pāli: _bodhi_). L’Illuminazione o Risveglio si realizza quando le
   Quattro Nobili Verità (→ _ariya-sacca_) vengono completamente comprese
@@ -637,7 +647,8 @@ phassa.::
   Contatto sensoriale; → _paṭiccasamuppāda_.
 pīti.::
   Gioia. Il terzo fattore dell’assorbimento meditativo (→ _jhāna_).
-Precetti.::
+
+Precetti.[[precetti]]::
   Le linee guida morali (→ _sīla_) per azioni e pensieri salutari. I
   Cinque Precetti per i laici consistono nell’astenersi da uccidere
   altri esseri (I); astenersi dal prendere ciò che non è dato (II);
@@ -663,6 +674,8 @@ Precetti.::
   lussuosi o comunque ampi e troppo comodi. Per i → _bhikkhu_ i precetti
   o regole sono 227 e per le → _bhikkhunī_ sono 331; tali precetti sono
   dettagliatamente esposti nel → _Pāṭimokkha_.
+  <<top,<- top>>
+
 puthujjana.::
   Una persona comune, ordinaria, non illuminata; un essere “mondano”
   che non ha ancora realizzato alcuna → Illuminazione;

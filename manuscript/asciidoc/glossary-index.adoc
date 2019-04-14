@@ -3,6 +3,7 @@
 
 *A*[[a]]
 
+- <<abhidhamma,Abhidhamma>>
 - <<anicca,anicca>>
 
 *B*[[b]]

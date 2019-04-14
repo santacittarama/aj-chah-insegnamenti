@@ -404,7 +404,7 @@ in corso.]
 
 [quote, role=quote]
 ____
-_Alla fine del Ritiro delle Piogge,footnote:[L’annuale
+Alla fine del Ritiro delle Piogge,footnote:[L’annuale
 periodo di tempo di tre mesi, che in India corrisponde a quello dei
 primi tre mesi monsonici, durante i quali i monaci hanno la regola
 dell’obbligo di residenza in monastero, un periodo che tradizionalmente
@@ -420,7 +420,7 @@ lungo il cammino, nei quali trascorrere la notte. Anche così era un
 viaggio arduo, e il novizio e un laico chiesero di tornare indietro.
 Quando finalmente arrivarono al Wat Peu Nong Nahny, ove dimorava il
 Venerabile Ajahn Mun, il gruppo si era ridotto a soli tre monaci e un
-laico._
+laico.
 
 Allorché entrarono nel monastero, Ajahn Chah fu immediatamente colpito
 dall’atmosfera serena e appartata. L’area centrale, nella quale si
@@ -479,7 +479,7 @@ _sīla_, _samādhi_ e _paññā_, delle Quattro Basi del Potere Psichico e
 dei Cinque Poteri Spiritualifootnote:[In pāli rispettivamente
 _iddhipāda_ e _bala_; per questi due termini e per _sīla_, _samādhi
 paññā_, il cui significato sarà spiegato poco più avanti, si veda il
-_Glossario_, p. FIXME:pageref.], mentre, man mano che procedeva, la sua
+<<glossary#iddhipada,Glossario, iddhipāda>>.], mentre, man mano che procedeva, la sua
 voce diveniva più potente e veloce, come se stesse ingranando marce
 sempre più alte. Con autorità assoluta, descrisse “il modo in cui le
 cose sono secondo Verità” e il Sentiero verso la Liberazione. Ajahn
@@ -759,8 +759,6 @@ amato di tutte le scritture _theravādin_:
 
 [quote, role=quote]
 ____
-__
-
 Tutto ciò che siamo è generato dalla mente. +
 È la mente che traccia la strada. +
 Come la ruota del carro segue +
@@ -815,13 +813,13 @@ dei suoi discorsi, _Acqua ferma che scorre_:
 
 [quote, role=quote]
 ____
-_Quando parliamo di “incertezza”, stiamo parlando
+Quando parliamo di “incertezza”, stiamo parlando
 del Buddha. Il Buddha è il Dhamma. Il Dhamma è la caratteristica
 dell’incertezza. Chi vede l’incertezza delle cose, vede quella che è la
 loro realtà immutabile. È così che è il Dhamma. E questo è il Buddha. Se
 vedete il Dhamma vedete il Buddha, vedendo il Buddha vedete il Dhamma.
 Se conoscete _aniccā_, l’incertezza, lascerete andare le cose e non vi
-aggrapperete a nulla._
+aggrapperete a nulla.
 ____
 
 Una caratteristica dell’insegnamento di Ajahn Chah è che, al posto di
@@ -869,10 +867,10 @@ impressionato:
 
 [quote, role=quote]
 ____
-_« Chi sei, amico? Il tuo volto è così chiaro e
+« Chi sei, amico? Il tuo volto è così chiaro e
 luminoso, il tuo portamento è gentile e sereno. Certamente devi aver
 scoperto una qualche grande verità. Chi è il tuo maestro, amico, e cosa
-hai scoperto? »_
+hai scoperto? »
 
 Il Buddha, che da poco aveva conseguito il Risveglio, rispose: « Io sono
 Colui che tutto ha trasceso, il Conoscitore di tutto. Non ho maestro. In
@@ -971,7 +969,7 @@ coloro che prendevano seriamente la ricerca della felicità e miravano a
 una vita sapientemente vissuta, sia che fossero in questione i Cinque
 Precetti dei laici o gli Otto, Dieci o 227 Precetti dei vari livelli
 della comunità monastica.footnote:[Si veda la voce _Precetti_ nel
-_Glossario_, p. FIXME:pageref.] Azioni e linguaggio virtuosi – _sīla_ –
+<<glossary#precetti,Glossario, precetti>>.] Azioni e linguaggio virtuosi – _sīla_ –
 mettono direttamente il cuore in sintonia con il Dhamma e divengono così
 il fondamento per la concentrazione, per la visione profonda e, infine,
 per la Liberazione.

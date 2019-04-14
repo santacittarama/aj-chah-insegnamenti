@@ -24,15 +24,13 @@
 
 include::{includes}/titlepage.adoc[]
 
-include::{includes}/dedication.adoc[]
-
 include::{includes}/preface.adoc[]
 
 include::{includes}/nota-ai-testi.adoc[]
 
 include::{includes}/introduzione.adoc[]
 
-// PRATICA QUOTIDIANA
+include::{includes}/part-1-pratica-quotidiana.adoc[]
 
 include::{includes}/la-via-di-mezzo.adoc[]
 
@@ -68,7 +66,7 @@ include::{includes}/dottrina-vuota.adoc[]
 
 include::{includes}/trascendenza.adoc[]
 
-// RATICA FORMALE
+include::{includes}/part-2-pratica-formale.adoc[]
 
 include::{includes}/insegnamenti-senza-tempo.adoc[]
 
@@ -114,7 +112,7 @@ include::{includes}/una-pace-incrollabile.adoc[]
 
 include::{includes}/solo-questo.adoc[]
 
-// RATICA DELLA RINUNCIA
+include::{includes}/part-3-pratica-della-rinuncia.adoc[]
 
 include::{includes}/che-cos-e-la-contemplazione.adoc[]
 

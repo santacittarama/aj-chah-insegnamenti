@@ -1287,8 +1287,8 @@ section#copyright figure.image div.content {
   text-align: left;
 }
 figure.image.titlepage-pubs-logo img {
-  margin-top: 3em;
-  width: 100px;
+  margin-top: 1em;
+  width: 150px;
 }
 #titlepage-description {
   text-align: center;
@@ -1338,10 +1338,10 @@ p.subtitle {
   font-style: normal;
 }
 .blockquote.quote blockquote {
-  font-style: italic;
+  font-style: normal;
 }
 .blockquote.quote blockquote em {
-  font-style: normal;
+  font-style: italic;
 }
 .top-anchor {
   font-size: 0pt;
@@ -1372,4 +1372,15 @@ figure.image.quotebreak img {
 }
 .blockquote.sidebar-quote > blockquote:first-child p {
   margin-top: 0pt;
+}
+.titlepage-translator {
+  text-align: center;
+  margin-top: 6em;
+}
+.center,
+.center p {
+  text-align: center;
+}
+nav#toc h2 {
+  text-align: left;
 }
