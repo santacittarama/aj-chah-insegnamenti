@@ -1,1 +1,4 @@
-= Parte 1 -- Pratica Quotidiana
+= Parte I
+
+== Pratica Quotidiana
+

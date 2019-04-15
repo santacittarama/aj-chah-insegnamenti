@@ -1,2 +1,4 @@
-= Parte 3 -- Pratica Della Rinuncia
+= Parte III
+
+== Pratica Della Rinuncia
 
