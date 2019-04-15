@@ -75,7 +75,7 @@ Dobbiamo prendere veramente in considerazione l’impermanenza,
 l’insoddisfazione e l’impersonalità (_aniccā_, _dukkha_,
 _anattā_),footnote:[Le qualità di tutti i fenomeni; impermanenza
 (_anicca_), carattere insoddisfacente (_dukkha_) e non-sé (_anatta_).
-Nel _Glossario_, p. FIXME:pageref, si veda Tre Caratteristiche
+Nel <<glossary#tilakkhana,Glossario, tilakkhaṇa>>, si veda Tre Caratteristiche
 (_tilakkhaṇa_).] ossia dobbiamo usare il pensiero per contemplare la
 natura della realtà convenzionale. Da questo lavoro nasce la saggezza e,
 se si tratta di saggezza reale, tutto è completato, finito, riconosciamo
@@ -105,8 +105,8 @@ di per sé non esistono realmente.
 Nelle Scritture c’è una storia sul venerabile Sāriputta che esamina un
 _bhikkhu_ prima di consentirgli di andare a svolgere le pratiche
 ascetiche itineranti (__dhutaṅga__footnote:[_dhutaṅga._ Pratica ascetica
-volontaria. Se ne parla più dettagliatamente nel _Glossario_,
-p. FIXME:pageref.] _vaṭṭa_). Gli chiese come avrebbe risposto se gli
+volontaria. Se ne parla più dettagliatamente nel
+<<glossary#dhutanga,Glossario, dhutaṅga>>.] _vaṭṭa_). Gli chiese come avrebbe risposto se gli
 fosse stato chiesto: « Cosa succede al Buddha dopo la morte? » Il
 _bhikkhu_ rispose: « La forma, la sensazione, la percezione, il pensiero
 e la coscienza dopo essere sorti, svaniscono. » Il venerabile Sāriputta

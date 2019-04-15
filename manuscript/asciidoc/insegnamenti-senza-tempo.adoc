@@ -9,8 +9,8 @@ mentale che oscura e contamina la mente.] può essere fonte di saggezza.
 Per vivere da laici e praticare il Dhamma, si deve essere nel mondo
 restando al di sopra di esso. Cominciamo con i Cinque
 Precettifootnote:[Cinque Precetti. Le linee guida morali per le azioni e
-i pensieri salutari; per un elenco si veda il _Glossario_, p.
-FIXME:pageref, alla voce Precetti.] basilari per far notare che _sīla_
+i pensieri salutari; per un elenco si veda il
+<<glossary#precetti,Glossario, Precetti>>.] basilari per far notare che _sīla_
 (moralità) è il genitore più importante di tutte le cose buone. Serve a
 rimuovere tutto quello che vi è di errato nella mente, a rimuovere
 quello che è causa di afflizione e di agitazione. Quando queste cose non

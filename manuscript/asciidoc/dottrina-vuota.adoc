@@ -304,8 +304,8 @@ che Conosce non comprende che la mente è semplicemente la mente, non un
 sé o una persona. Questo è chiamato _cittānupassanā_, contemplazione
 della mente.footnote:[_cittānupassanā._ La contemplazione della mente,
 uno dei quattro fondamenti della consapevolezza esposti dettagliatamente
-nel _Mahāsatipaṭṭhāna Sutta_ (D. 22.); si veda il _Glossario_ p.
-FIXME:pageref, alla voce _satipaṭṭhāna_.] Vedendo in questo modo
+nel _Mahāsatipaṭṭhāna Sutta_ (D. 22.); si veda il
+<<glossary#satipatthana,Glossario, satipaṭṭhāna>>.] Vedendo in questo modo
 capiremo che la mente è transitoria, imperfetta e priva di un
 proprietario. La mente non ci appartiene.
 

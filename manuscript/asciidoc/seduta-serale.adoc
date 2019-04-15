@@ -28,7 +28,7 @@ mente mostra le sue differenti condizioni affinché le possiate vedere.
 Dovete capire che gli otto fattori del Nobile Ottuplice
 Sentierofootnote:[Nobile Ottuplice Sentiero. Gli otto fattori che
 conducono alla fine della sofferenza; tali fattori sono elencati nel
-_Glossario_, p. FIXME:pageref.] si fondono in _sīla_ (moralità),
+<<glossary#ottuplice,Glossario, Nobile Ottuplice Sentiero>>.] si fondono in _sīla_ (moralità),
 _samādhi_ (concentrazione) e _paññā_ (saggezza). Non si incontrano da
 nessun’altra parte. Questo significa che quando mettete insieme i
 fattori della vostra pratica, ci deve essere _sīla_, ci deve essere

@@ -48,7 +48,7 @@ Ero alla continua ricerca di qualcosa che si confacesse alla mia mente.
 In quanto monaco _dhutaṅga_ girovagavo,footnote:[Ossia un monaco errante
 che si addestra mediante le tredici pratiche ascetiche volontarie che
 vanno sotto il nome di _dhutaṅga_, delle quali si parla più
-dettagliatamente nel _Glossario_, p. FIXME:pageref.] ma le cose non
+dettagliatamente nel <<glossary#dhutanga,Glossario, dhutaṅga>>.] ma le cose non
 andavano bene. Perciò contemplavo: « Che cosa posso fare per sistemare
 le cose? Che cosa posso fare? » Ero insoddisfatto se vivevo con molta
 gente, ero insoddisfatto se vivevo con poche persone. Qual era il

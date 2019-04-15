@@ -108,7 +108,7 @@ _R._ Significa comprendere causa ed effetto.
 _D._ Gli insegnamenti parlano di _chanda_, aspirazione, _viriya_,
 sforzo, e _citta_, mente; insieme a _vīmaṃsā_, sono i quattro
 _iddhipāda_,footnote:[_iddhipāda._ Per un elenco degli _iddhipāda_ si
-veda il _Glossario_, p. FIXME:pageref.] le “basi per la
+veda il <<glossary#iddhipada,Glossario, iddhipāda>>.] le “basi per la
 realizzazione”.
 
 _R._ Quando c’è appagamento, si è appagati per qualcosa di corretto? Lo

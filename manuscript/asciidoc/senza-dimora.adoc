@@ -84,8 +84,8 @@ Se non tenessimo nulla, che cosa potremmo fare? Non potremmo fare la
 meditazione camminata o qualsiasi altra cosa, è per questo che prima le
 cose dobbiamo tenerle. È volizione, certo, questo è vero, ma in seguito
 ciò condurrà alla _pāramī_,footnote:[_pāramī._ “Perfezione”. Per
-l’elenco delle dieci relative qualità si veda il _Glossario_, p.
-FIXME:pageref.] alla virtù o perfezione. Come, ad esempio, il voler
+l’elenco delle dieci relative qualità si veda il
+<<glossary#parami,Glossario, pāramī>>.] alla virtù o perfezione. Come, ad esempio, il voler
 venire in questo luogo. Il venerabile Jagarofootnote:[Allora il secondo
 abate, australiano, del Wat Pah Nanachat, che condusse il suo gruppo di
 monaci e laici a visitare Ajahn Chah.] è venuto al Wat Pah Pong. Prima è
@@ -123,7 +123,7 @@ facciamo, e poi lasciamo andare. Fare, e poi lasciar andare.
 Guardate il brāhmaṇofootnote:[brāhmaṇo. Membro della casta dei brāhmaṇi,
 “sacerdote”; la casta dei brāhmaṇi in India ha per molto tempo
 ritenuto che, per nascita, i suoi componenti fossero degni del più alto
-rispetto; si veda _brāhmaṇa_, nel _Glossario_, p. FIXME:pageref.] che
+rispetto; si veda _brāhmaṇa_, nel <<glossary#brahmana,Glossario, brāhmaṇa>>.] che
 compie sacrifici. Ha qualche desiderio nella mente, è per questo che
 compie sacrifici. Queste sue azioni non l’aiuteranno a trascendere la
 sofferenza perché sta agendo dietro la spinta d’un desiderio.

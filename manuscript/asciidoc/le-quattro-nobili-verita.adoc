@@ -233,7 +233,7 @@ i quattro elementi. Questo è tutto quel che c’è in questo nostro corpo.
 Però, a causa del potere dell’attaccamento, di
 _attavādupādāna_,footnote:[_attavādupādāna._ L’attaccamento all’idea di
 un sé. È una delle quattro basi dell’attaccamento; si veda _upādāna_ nel
-_Glossario_, p. FIXME:pageref.] non vediamo le cose in questo modo. Se
+<<glossary#upadana,Glossario, upādāna>>.] non vediamo le cose in questo modo. Se
 guardassimo con chiarezza vedremmo che non c’è poi molto in ciò che
 chiamiamo “persona”. La parte solida è l’elemento terra, la parte
 fluida è l’elemento acqua, la parte che fornisce il calore è l’elemento

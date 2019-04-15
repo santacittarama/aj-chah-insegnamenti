@@ -295,7 +295,7 @@ Quando la moralità, la concentrazione e la saggezza sono ben sviluppate,
 diciamo che stiamo praticando il Nobile Ottuplice
 Sentierofootnote:[Nobile Ottuplice Sentiero: Gli otto fattori che
 conducono alla fine della sofferenza; tali fattori sono elencati nel
-_Glossario_, p. FIXME:pageref.] insegnatoci dal Buddha come unica via
+<<glossary#ottuplice,Glossario, Nobile Ottuplice Sentiero>>.] insegnatoci dal Buddha come unica via
 d’uscita dalla sofferenza. Il Nobile Ottuplice Sentiero è al di sopra di
 tutti gli altri perché, se correttamente praticato, conduce direttamente
 al Nibbāna,footnote:[Nibbāna (sanscrito _Nirvāṇa_). La Liberazione

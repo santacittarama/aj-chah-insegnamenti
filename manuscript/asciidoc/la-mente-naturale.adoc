@@ -20,7 +20,7 @@ errata comprensione. Se il volere non è frammisto di errata
 comprensione, diciamo che è volere con saggezza (_paññā_). Non è
 illusione, è volere con retta comprensione. In questo caso diciamo che è
 dovuto alla __pāramī__footnote:[_pāramī._ “Perfezione”. Per l’elenco
-delle dieci relative qualità, si veda il _Glossario_, p. FIXME:pageref.]
+delle dieci relative qualità, si veda il <<glossary#parami,Glossario, pāramī>>.]
 di una persona, o ai meriti accumulati in passato. Certamente non è così
 per tutti.
 
@@ -252,8 +252,8 @@ Dopo un po’ di tempo, a seconda delle nostre particolari tendenze e
 capacità, sorgerà un nuovo genere di comprensione. Si chiama
 investigazione dei _dhamma_ (_dhammavicaya_), ed è così che nella mente
 sorgono i Sette Fattori dell’Illuminazionefootnote:[O anche Sette
-Fattori del Risveglio; si veda anche _bojjhaṅga_ nel _Glossario_, p.
-FIXME:pageref.]. L’investigazione dei _dhamma_ è uno di essi. Gli altri
+Fattori del Risveglio; si veda anche _bojjhaṅga_ nel
+<<glossary#bojjhanga,Glossario, bojjhaṅga>>.]. L’investigazione dei _dhamma_ è uno di essi. Gli altri
 sono consapevolezza, energia, gioia estatica, tranquillità,
 concentrazione (_samādhi_) ed equanimità.
 

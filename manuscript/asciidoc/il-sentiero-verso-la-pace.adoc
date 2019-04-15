@@ -391,7 +391,7 @@ dice praticare _sīla_ a un certo livello. Nei fatti _sīla_, _samādhi_ e
 _paññā_ sono una cosa sola. Se la pratica di _sīla_ a questo stadio la
 si dovesse descrivere in termini di _pāramī_,footnote:[_pāramī._
 “Perfezione”. Per l’elenco completo delle dieci qualità spirituali, si
-veda il _Glossario_, p. FIXME:pageref.] si dovrebbe parlare di
+veda il <<glossary#parami,Glossario, pāramī>>.] si dovrebbe parlare di
 __dāna__footnote:[_dāna._ L’atto di donare, liberalità, generosità; fare
 offerte, elemosine.] _pāramī_, o di _sīla pāramī_, la perfezione
 spirituale del contenimento morale. Questa è la pratica a un certo

@@ -93,8 +93,8 @@ dei suoni all’interno dei nostri orecchi, se dei suoni esterni non
 entrassero in contatto con essi? Se esternamente non ci fossero degli
 odori, potremmo sperimentarli? Dove sono le cause? Pensate a quel che
 disse il Buddha: tutti i __dhamma__footnote:[Come si è già accennato,
-questo termine può avere molti significati (si veda il _Glossario_, p.
-FIXME:pageref); in questo discorso il venerabile Ajahn Chah fa
+questo termine può avere molti significati (si veda il
+<<glossary#dhamma,Glossario, Dhamma>>); in questo discorso il venerabile Ajahn Chah fa
 riferimento ai fenomeni fisici e mentali.] hanno delle cause che li
 fanno sorgere. Se non avessimo gli orecchi, potremmo sperimentare dei
 suoni? Se non avessimo gli occhi, potremmo vedere? Occhi, orecchi, naso,
@@ -560,8 +560,8 @@ costanza, tutte queste cose diventeranno oggetti di contemplazione. Ci
 sarà saggezza, vedrete il Dhamma. Questo si chiama _dhammavicaya_,
 investigazione del Dhamma. È uno dei fattori per
 l’Illuminazione.footnote:[Per i sette fattori dell’Illuminazione o del
-Risveglio, si veda il _Glossario_, p. FIXME:pageref, alla voce
-_bojjhaṅga_.] Se c’è _sati_, rammemorazione, l’effetto sarà il
+Risveglio, si veda il <<glossary#bojjhanga,Glossario, bojjhaṅga>>.]
+Se c’è _sati_, rammemorazione, l’effetto sarà il
 _dhammavicaya_. Questi sono fattori per l’Illuminazione. Se abbiamo
 rammemorazione, non la prenderemo alla leggera, ci sarà pure indagine
 nel Dhamma. Queste cose diventano fattori per la realizzazione del
