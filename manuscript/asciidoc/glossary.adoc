@@ -17,46 +17,46 @@ Abhidhamma.[[abhidhamma]]::
   discorsi del Buddha.
   <<top,<- top>>
 
-ācariya.::
+ācariya.[[acariya]]::
   Insegnante, mentore, maestro; → _ajahn_; → _kalyāṇamitta_.
   <<top,<- top>>
 
-adhiṭṭhāna.::
+adhiṭṭhāna.[[adhitthana]]::
   Determinazione, decisione, risolutezza, impegno o intento che rivolge
   la mente in una certa direzione. È una delle dieci perfezioni;
   → _pāramī_.
   <<top,<- top>>
 
-ajahn::
+ajahn[[ajahn]]::
   (thai: อาจารย์). Il termine deriva da _ācariya_, in pāli,
   letteralmente “insegnante”; spesso viene utilizzato per un monaco o
   per una monaca con più di dieci anni di vita monastica.
   <<top,<- top>>
 
-ājīvaka.::
+ājīvaka.[[ajivaka]]::
   Una scuola di contemplativi contemporanea del Buddha, i cui seguaci
   ritenevano che la volontà degli esseri non fosse in grado di
   indirizzare le loro azioni e che l’universo fosse guidato dalla sorte.
   <<top,<- top>>
 
-akusala.::
+akusala.[[akusala]]::
   Non salutare, nocivo, maldestro, non meritorio; → _kusala_.
   <<top,<- top>>
 
-Ālāra Kālāma.::
+Ālāra Kālāma.[[alara-kalama]]::
   Il maestro che insegnò al _bodhisatta_ la meditazione nella sfera del
   “senza forma” sulla “base del nulla” quale più alta fruizione
   della vita santa.
   <<top,<- top>>
 
-anāgāmin, anāgāmī.::
+anāgāmin, anāgāmī.[[anagami]]::
   “Chi è senza ritorno”, ossia chi ha divelto tutte e cinque le catene
   inferiori (→ _saṃyojana_) che legano la mente al ciclo della
   rinascita, e che dopo la morte apparirà in uno dei mondi di Brahmā,
   per poi entrare nel → Nibbāna, senza mai tornare in questo mondo.
   <<top,<- top>>
 
-anāgārika::
+anāgārika[[anagarika]]::
   (thai: _pah-kao_, ผ้าขาว, ปะขาว). Letteralmente, “non cittadino”,
   ossia “senza casa”. Un postulante che ha assunto gli Otto → Precetti
   e spesso vive con i → _bhikkhu_, oltre a sostenere la sua pratica di
@@ -64,32 +64,32 @@ anāgārika::
   svolgere.
   <<top,<- top>>
 
-ānāpānasati.::
+ānāpānasati.[[anapanasati]]::
   Letteralmente, “consapevolezza dell’inspirazione e dell’espirazione”
   o consapevolezza del respiro. Questa pratica di meditazione consiste
   nel mantenere l’attenzione e la consapevolezza sulle sensazioni del
   respiro.
   <<top,<- top>>
 
-anatta, anattā.::
+anatta, anattā.[[anatta]]::
   Non-sé, non sostanziale, impersonale; → _tilakkhaṇa_.
   <<top,<- top>>
 
-anicca, aniccā.::
+anicca, aniccā.[[anicca]]::
   Incostante, instabile, impermanente; → _tilakkhaṇa_.
   <<top,<- top>>
 
-añjali.::
+añjali.[[anjali]]::
   È un gesto di rispetto consistente nel congiungere le mani al petto al
   cospetto di qualcuno; oggigiorno è ancora diffuso nei paesi buddhisti
   e in India.
   <<top,<- top>>
 
-antara-vāsaka.::
+antara-vāsaka.[[antara-vasaka]]::
   → veste monastica.
   <<top,<- top>>
 
-ānupubbi-kathā.::
+ānupubbi-kathā.[[anupubbi-katha]]::
   Istruzione graduale. Il metodo d’insegnamento del Dhamma da parte del
   Buddha che conduce progressivamente i suoi ascoltatori per mezzo di
   argomenti via via più avanzati: la generosità (→ _dāna_), la virtù o
@@ -98,7 +98,7 @@ antara-vāsaka.::
   (→ _ariya-sacca_).
   <<top,<- top>>
 
-anusaya.::
+anusaya.[[anusaya]]::
   Predisposizione; tendenza latente. Ci sono sette tendenze maggiori
   latenti, verso le quali la mente torna in continuazione: verso la
   passione sensoriale (_kāma_-_rāganusaya_), l’avversione
@@ -108,7 +108,7 @@ anusaya.::
   → _saṃyojana_.
   <<top,<- top>>
 
-arahant.::
+arahant.[[arahant]]::
   Letteralmente, un “Meritevole”; una persona la cui mente è libera
   dalle contaminazioni (→ _kilesa_), che ha abbandonato tutte e dieci le
   catene (→ _saṃyojana_), sia le cinque inferiori sia le cinque
@@ -118,11 +118,11 @@ arahant.::
   alto dei suoi Nobili Discepoli.
   <<top,<- top>>
 
-ārammaṇa.::
+ārammaṇa.[[arammana]]::
   Oggetto mentale, oggetto di riferimento di un metodo meditativo.
   <<top,<- top>>
 
-ariya.::
+ariya.[[ariya]]::
   Nobile; chi ha ottenuto la visione trascendente in uno dei quattro
   livelli dell’Illuminazione, il più alto dei quali è quello
   dell’→ _arahant_; i tre precedenti stadi sono: → _sotāpanna_;
@@ -130,14 +130,14 @@ ariya.::
   categoria delle Nobili Persone; → _ariya-puggala_.
   <<top,<- top>>
 
-ariya-puggala.::
+ariya-puggala.[[ariya-puggala]]::
   Letteralmente, “Nobile Persona”; chi ha percorso almeno il primo
   sentiero inferiore dei quattro Nobili Sentieri (→ _magga_) o
   conseguito il Frutto (→ _phala_) di essi. Si paragoni quanto detto in
   relazione a → _puthujjana_.
   <<top,<- top>>
 
-ariya-sacca, ariya-saccāni.::
+ariya-sacca, ariya-saccāni.[[ariya-sacca]]::
   Nobile Verità. Le Quattro Nobili Verità costituiscono il primo e
   centrale insegnamento del Buddha riguardo alla sofferenza, alla sua
   origine, alla sua cessazione e al Sentiero che conduce a tale
@@ -146,44 +146,44 @@ ariya-sacca, ariya-saccāni.::
   Nibbāna.
   <<top,<- top>>
 
-asaṅkhata-dhamma.::
+asaṅkhata-dhamma.[[asankhata-dhamma]]::
   Si veda il suo opposto → _saṅkhata-dhamma_.
   <<top,<- top>>
 
-āsava.::
+āsava.[[asava]]::
   Influsso impuro, macchia, fermentazione o effluenza. Le quattro
   qualità che macchiano la mente: brama sensoriale, visioni errate,
   divenire e ignoranza.
   <<top,<- top>>
 
-asekha.::
+asekha.[[asekha]]::
   Una persona (_puggala_) oltre l’addestramento, ossia un → _arahant_.
   <<top,<- top>>
 
-asubha.::
+asubha.[[asubha]]::
   Non bello, da intendersi come repulsivo, ripugnante e sporco. Il
   Buddha raccomandò la contemplazione di questi aspetti del corpo come
   antidoto alla lussuria.
   <<top,<- top>>
 
-atta, attā.::
+atta, attā.[[atta]]::
   Io o sé, sostanziale, personale; a volte con il senso di anima; si
   veda il suo opposto (→ _anatta_).
   <<top,<- top>>
 
-avijjā.::
+avijjā.[[avijja]]::
   Non conoscenza, ignoranza; consapevolezza offuscata; confusione
   (→ _moha_) sulla natura della mente. La principale radice del male e
   della continua rinascita.
   <<top,<- top>>
 
-āyatana.::
+āyatana.[[ayatana]]::
   Le basi sensoriali. Le basi interne sono gli organi dei sensi: occhi,
   orecchi, naso, lingua, corpo e mente. Le basi esterne sono i loro
   rispettivi oggetti.
   <<top,<- top>>
 
-bala.::
+bala.[[bala]]::
   Forza, potere. Si riferisce a cinque facoltà: fede/fiducia
   (→ _saddhā_), energia (→ _viriya_), consapevolezza (→ _sati_),
   concentrazione (→ _samādhi_), saggezza (→ _paññā_); queste facoltà
@@ -191,12 +191,12 @@ bala.::
   (→ _saṃyojana_).
   <<top,<- top>>
 
-bhante.::
+bhante.[[bhante]]::
   Epiteto, “venerabile signore”; viene spesso utilizzato quando ci si
   rivolge a un monaco buddhista.
   <<top,<- top>>
 
-bhava.::
+bhava.[[bhava]]::
   Esistenza; divenire; una “vita”. Stati dell’esistenza che si
   sviluppano nella mente e possono essere sperimentati come mondi
   interiori e/o come mondi a livello esterno. Tre sono i livelli del
@@ -204,39 +204,39 @@ bhava.::
   dell’assenza di forma.
   <<top,<- top>>
 
-bhāvanā.::
+bhāvanā.[[bhavana]]::
   Meditazione, sviluppo o coltivazione. Termine spesso utilizzato per
   far riferimento a _citta-bhāvanā_, allo sviluppo della mente, o a
   _paññā-bhāvanā_, sviluppo della saggezza; → _kammaṭṭhāna_.
   <<top,<- top>>
 
-bhava-taṇhā.::
+bhava-taṇhā.[[bhava-tanha]]::
   Bramosia di divenire, di essere.
   <<top,<- top>>
 
-bhikkhu.::
+bhikkhu.[[bhikkhu]]::
   Un monaco buddhista; un uomo che ha rinunciato al suo ruolo in
   famiglia per vivere a un livello più alto di virtù (→ _sīla_) in
   accordo con il → Vinaya in generale, e con le regole del
   → _Pāṭimokkha_; → _parisā_; → Saṅgha; → _upasampadā_.
   <<top,<- top>>
 
-bhikkhunī.::
+bhikkhunī.[[bhikkhuni]]::
   Una monaca buddhista; una donna che ha rinunciato al suo ruolo in
   famiglia per vivere a un livello più alto di virtù (→ _sīla_) in
   accordo con il → Vinaya in generale, e con le regole del
   → _Pāṭimokkha_; → _parisā_; → Saṅgha; → _upasampadā_.
   <<top,<- top>>
 
-bhikkhu-saṅgha.::
+bhikkhu-saṅgha.[[bhikkhu-sangha]]::
   La comunità dei monaci buddhisti; → Saṅgha.
   <<top,<- top>>
 
-bodhi.::
+bodhi.[[bodhi]]::
   Risveglio; → Illuminazione.
   <<top,<- top>>
 
-bodhi-pakkhiya-dhamma.::
+bodhi-pakkhiya-dhamma.[[bodhi-pakkhiya-dhamma]]::
   Le parti del Risveglio, ossia i trentasette fattori che contribuiscono
   al Risveglio: (1) i quattro fondamenti della consapevolezza
   (→ _satipaṭṭhāna_); (2) i quattro tipi di retto sforzo
@@ -247,7 +247,7 @@ bodhi-pakkhiya-dhamma.::
   → _magga_.
   <<top,<- top>>
 
-bodhisatta::
+bodhisatta[[bodhisatta]]::
   (sanscrito: _bodhisattva_). Un essere che si impegna per raggiungere
   il Risveglio; è il termine utilizzato per descrivere il Buddha prima
   dell’Illuminazione, dall’iniziale aspirazione alla Buddhità fino al
@@ -262,7 +262,7 @@ bojjhaṅga.[[bojjhanga]]::
   (→ _upekkhā_).
   <<top,<- top>>
 
-brahmacariyā.::
+brahmacariyā.[[brahmacariya]]::
   Letteralmente, comportamento di Brahmā, “condotta divina”, vita
   pura; il termine è di solito riferito alla vita monastica per
   enfatizzare il voto del celibato.
@@ -280,26 +280,26 @@ brāhmaṇa.[[brahmana]]::
   → _arahant_.
   <<top,<- top>>
 
-brahmavihāra.::
+brahmavihāra.[[brahmavihara]]::
   Le quattro dimore “divine” o “sublimi” che si ottengono per mezzo
   dello sviluppo di un’illimitata → _mettā_ (benevolenza, gentilezza
   amorevole), → _karuṇā_ (compassione), → _muditā_ (gioia empatica e di
   apprezzamento) e → _upekkhā_ (equanimità).
   <<top,<- top>>
 
-Buddhasāsana.::
+Buddhasāsana.[[buddhasasana]]::
   La dottrina del Buddha; si riferisce in primo luogo agli insegnamenti,
   ma anche a tutte le infrastrutture religiose, grosso modo alla
   religione buddhista, al buddhismo nel suo complesso.
   <<top,<- top>>
 
-Buddha, Buddho.::
+Buddha, Buddho.[[buddha]]::
   Letteralmente, “Risvegliato”, “Illuminato”. Questa parola viene
   anche usata per la meditazione, recitando interiormente _Bud-_ nel
   corso dell’inspirazione e _-dho_ durante l’espirazione.
   <<top,<- top>>
 
-caṅkama.::
+caṅkama.[[cankama]]::
   Letteralmente, “camminata avanti e indietro”, per indicare la
   meditazione di solito eseguita andando avanti e indietro su di un
   sentiero prestabilito – lungo circa 15 metri e largo circa 1 metro,
@@ -307,34 +307,34 @@ caṅkama.::
   mentre si focalizza l’attenzione su di un oggetto di meditazione.
   <<top,<- top>>
 
-cetanā.::
+cetanā.[[cetana]]::
   Intenzione, volizione. È l’atto mentale che precede l’azione e che ha
   conseguenze sul → kamma.
   <<top,<- top>>
 
-cetasika.::
+cetasika.[[cetasika]]::
   Fattore mentale che accompagna il → _citta_ o mente; → _vedanā_;
   → _saññā_; → _saṅkhāra_.
   <<top,<- top>>
 
-ceto-vimutti.::
+ceto-vimutti.[[ceto-vimutti]]::
   Liberazione della mente-cuore; → _vimutti_.
   <<top,<- top>>
 
-chanda.::
+chanda.[[chanda]]::
   Desiderio, aspirazione, preferenza. È un termine neutro, che può
   riferirsi a desideri sia salutari sia non salutari.
   <<top,<- top>>
 
-Cinque Precetti.::
+Cinque Precetti.[[cinque-precetti]]::
   → Precetti.
   <<top,<- top>>
 
-citta.::
+citta.[[citta]]::
   Mente-cuore; stato di coscienza.
   <<top,<- top>>
 
-Colui che Conosce.::
+Colui che Conosce.[[colui-che-conosce]]::
   La qualità della presenza mentale, quella facoltà della mente che, se
   rettamente coltivata, conduce alla Liberazione. Sotto l’influsso
   dell’ignoranza indotta dalle contaminazioni, le cose si conoscono in
@@ -343,7 +343,7 @@ Colui che Conosce.::
   del Buddha.
   <<top,<- top>>
 
-dāna.::
+dāna.[[dana]]::
   L’atto di donare, liberalità, generosità; fare offerte, elemosine.
   Specificamente, offrire ai monaci i quattro beni di prima necessità
   (cibo, abiti, riparo e medicinali). Più in generale, la tendenza a
@@ -354,11 +354,11 @@ dāna.::
   meritorie (→ _sīla_; → _bhāvanā_).
   <<top,<- top>>
 
-danta, dantā.::
+danta, dantā.[[danta]]::
   Dente, una delle → trentadue parti del corpo.
   <<top,<- top>>
 
-devadūta.::
+devadūta.[[devaduta]]::
   “Messaggero divino”; nome simbolico per la vecchiaia, la malattia e
   la morte e per il → _samaṇa_ (asceta mendicante).
   <<top,<- top>>
@@ -372,25 +372,25 @@ Dhamma.[[dhamma]]::
   caratteristica o la qualità.
   <<top,<- top>>
 
-dhamma mondani.::
+dhamma mondani.[[dhamma-mondani]]::
   Le otto condizioni mondane di guadagno e perdita, lode e biasimo,
   felicità e sofferenza, fama e discredito.
   <<top,<- top>>
 
-dhamma-savaṇa.::
+dhamma-savaṇa.[[dhamma-savana]]::
   L’ascolto o lo studio del Dhamma.
   <<top,<- top>>
 
-dhamma-vicaya.::
+dhamma-vicaya.[[dhamma-vicaya]]::
   Investigazione dei _dhamma_ o stati mentali.
   <<top,<- top>>
 
-Dhamma-Vinaya.::
+Dhamma-Vinaya.[[dhamma-vinaya]]::
   “Dottrina e Disciplina”, il nome attribuito dal Buddha a ciò che
   insegnava.
   <<top,<- top>>
 
-dhana.::
+dhana.[[dhana]]::
   Tesoro. I _dhana_ sono le sette qualità della fiducia o fede
   (→ _saddhā_), della virtù o moralità (→ _sīla_), della consapevolezza
   (→ _sati_), del fervore ascetico (_tapo_), dell’apprendimento
@@ -398,7 +398,7 @@ dhana.::
   (_mati_ o → _paññā_).
   <<top,<- top>>
 
-dhātu.::
+dhātu.[[dhatu]]::
   Elemento, proprietà. Terra (nel senso di solidità), acqua (liquidità),
   fuoco (calore) e vento (movimento). I sei elementi comprendono, oltre
   ai quattro appena menzionati, anche lo spazio e la coscienza.
@@ -425,11 +425,11 @@ dhutaṅga.[[dhutanga]]::
   rinunciare a stare distesi (_nesajjika_).
   <<top,<- top>>
 
-Dieci Precetti.::
+Dieci Precetti.[[dieci-precetti]]::
   → Precetti
   <<top,<- top>>
 
-diṭṭhi.::
+diṭṭhi.[[ditthi]]::
   Visione, opinione, convinzione, concezione. In generale il termine è
   associato a una “visione errata”; infatti, nel Canone in pāli la
   parola _diṭṭhi_ da sola ha quasi sempre questo significato. I
@@ -438,33 +438,33 @@ diṭṭhi.::
   _micchā-diṭṭhi_, la visione errata.
   <<top,<- top>>
 
-dosa.::
+dosa.[[dosa]]::
   Avversione, odio. Uno dei principali inquinanti; → _kilesa_.
   <<top,<- top>>
 
-dukkha.::
+dukkha.[[dukkha]]::
   “Dis-agio”, “difficile da sopportare”, insoddisfazione,
   sofferenza, insicurezza, instabilità, tensione; è una delle Tre
   Caratteristiche di tutti i fenomeni condizionati; → _tilakkhaṇa_.
   <<top,<- top>>
 
-ekaggatā.::
+ekaggatā.[[ekaggata]]::
   Unificazione mentale; il quinto fattore dell’assorbimento meditativo.
   È la qualità mentale che consente all’attenzione di rimanere raccolta
   e focalizzata sull’oggetto scelto per la meditazione. Raggiunge la
   completa maturazione con lo sviluppo del quarto livello dei → _jhāna_.
   <<top,<- top>>
 
-Entrata nella Corrente::
+Entrata nella Corrente[[entrata-nella-corrente]]::
   (pāli: _sotāpatti_). Evento tramite il quale si diviene → _sotāpanna_,
   il primo stadio dell’ → Illuminazione.
   <<top,<- top>>
 
-fondamento della consapevolezza.::
+fondamento della consapevolezza.[[fondamento-della-consapevolezza]]::
   → _satipaṭṭhāna_.
   <<top,<- top>>
 
-glot::
+glot[[glot]]::
   (thai: กลค). Ombrello con una zanzariera tutt’intorno all’estremità,
   utilizzato dai monaci che intraprendono i → _dhutaṅga_ sia per la
   meditazione sia come riparo; viene appeso ai rami degli alberi così da
@@ -473,23 +473,23 @@ glot::
   thailandese ร่ม).
   <<top,<- top>>
 
-gotrabhū.::
+gotrabhū.[[gotrabhu]]::
   “Cambio di lignaggio”. Il passaggio da una condizione di essere
   ordinario (→ _puthujjana_) a quella di Nobile Persona
   (→ _ariya_-_puggala_).
   <<top,<- top>>
 
-gotrabhū-citta.::
+gotrabhū-citta.[[gotrabhu-citta]]::
   Stato di coscienza del cambio di lignaggio (→ _gotrabhū_).
   <<top,<- top>>
 
-gotrabhū-ñāṇa.::
+gotrabhū-ñāṇa.[[gotrabhu-nana]]::
   “Conoscenza del cambio di lignaggio”: intravedere il → Nibbāna con
   la transizione dalla condizione di essere ordinario (→ _puthujjana_) a
   quella di Nobile Persona (→ _ariya_-_puggala_).
   <<top,<- top>>
 
-hiri-ottappa.::
+hiri-ottappa.[[hiri-ottappa]]::
   Coscienza morale e timore di compiere cattive azioni. Questi due stati
   mentali, detti “i guardiani del mondo”, sono associati a tutte le
   azioni abili e salutari. _Hiri_ è un freno interiore il quale ci fa
@@ -506,7 +506,7 @@ iddhipāda.[[iddhipada]]::
   (→ _vīmaṃsā_).
   <<top,<- top>>
 
-Illuminazione::
+Illuminazione[[illuminazione]]::
   (pāli: _bodhi_). L’Illuminazione o Risveglio si realizza quando le
   Quattro Nobili Verità (→ _ariya-sacca_) vengono completamente comprese
   e realizzate. Sono trentasette i fattori che contribuiscono al
@@ -517,7 +517,7 @@ Illuminazione::
   legano a ulteriori rinascite; → _saṃsāra_; → _vaṭṭa_.
   <<top,<- top>>
 
-indriya.::
+indriya.[[indriya]]::
   Le cinque facoltà spirituali: la fiducia (→ _saddhā_), lo sforzo
   (→ _viriya_), la consapevolezza (→ _sati_), la concentrazione
   (→ _samādhi_) e la saggezza (→ _paññā_). Nei _sutta_ questo termine
@@ -525,7 +525,7 @@ indriya.::
   → _bodhi-pakkhiya-dhammā_.
   <<top,<- top>>
 
-jhāna.::
+jhāna.[[jhana]]::
   Assorbimento mentale; uno stato di forte concentrazione focalizzata su
   una singola sensazione fisica (che conduce a un _rūpa-jhāna_), oppure
   su di una nozione mentale (che conduce a un _arūpa-jhāna_). Lo
@@ -536,34 +536,34 @@ jhāna.::
   unificazione della mente (→ _ekaggatā_).
   <<top,<- top>>
 
-jongrom::
+jongrom[[jongrom]]::
   (thai: จงกรม, เดินจงกรม). Parola thailandese per il termine pāli
   → _caṅkama_.
   <<top,<- top>>
 
-kalyāṇajana.::
+kalyāṇajana.[[kalyanajana]]::
   Una persona buona, un essere virtuoso.
   <<top,<- top>>
 
-kalyāṇamitta.::
+kalyāṇamitta.[[kalyanamitta]]::
   Amico spirituale, maestro che consiglia o insegna il Dhamma.
   <<top,<- top>>
 
-kāmacchanda.::
+kāmacchanda.[[kamacchanda]]::
   Desiderio sensoriale; uno dei cinque impedimenti o ostacoli
   (→ _nīvaraṇa_) per il progresso spirituale.
   <<top,<- top>>
 
-kāmataṇhā.::
+kāmataṇhā.[[kamatanha]]::
   Bramosia sensoriale.
   <<top,<- top>>
 
-kamma.::
+kamma.[[kamma]]::
   Atto intenzionale compiuto per mezzo del corpo, della parola o della
   mente, il quale conduce sempre a un effetto (_kamma-vipāka_).
   <<top,<- top>>
 
-kammaṭṭhāna.::
+kammaṭṭhāna.[[kammatthana]]::
   Letteralmente, “base di lavoro” o “luogo di lavoro”, metodo
   meditativo. Il termine si riferisce all’“occupazione” di un
   meditante: più precisamente la contemplazione di alcuni temi di
@@ -579,23 +579,23 @@ kammaṭṭhāna.::
   → _kāyagatāsati_.
   <<top,<- top>>
 
-kāmupādāna.::
+kāmupādāna.[[kamupadana]]::
   → _upādāna_.
   <<top,<- top>>
 
-karuṇā.::
+karuṇā.[[karuna]]::
   Compassione; empatia; l’aspirazione a trovare una via che sia davvero
   salutare per se stessi e per gli altri. È una delle quattro dimore
   divine; → _brahmavihāra_.
   <<top,<- top>>
 
-kasiṇa.::
+kasiṇa.[[kasina]]::
   Oggetto esterno di meditazione utilizzato per sviluppare il _samādhi_,
   ad esempio un piatto con dell’acqua, la fiamma di una candela o un
   disco colorato.
   <<top,<- top>>
 
-kāyagatāsati.::
+kāyagatāsati.[[kayagatasati]]::
   Consapevolezza immersa nel corpo. Si tratta di un termine che, a
   seconda dei _sutta_, può essere riferito a varie pratiche meditative,
   per esempio mantenere la mente attenta al respiro, essere consapevoli
@@ -606,11 +606,11 @@ kāyagatāsati.::
   alla dissoluzione.
   <<top,<- top>>
 
-kesa, kesā.::
+kesa, kesā.[[kesa]]::
   → Trentadue parti del corpo.
   <<top,<- top>>
 
-khandha, khandhā.::
+khandha, khandhā.[[khandha]]::
   Aggregato, insieme di elementi col quale ci si identifica; le
   componenti fisiche e mentali della personalità e dell’esperienza
   sensoriale in generale. I _khandhā_ sono le cinque basi
@@ -619,11 +619,11 @@ khandha, khandhā.::
   (→ _saṅkhāra_) e coscienza (→ _viññāṇa_).
   <<top,<- top>>
 
-khanti.::
+khanti.[[khanti]]::
   Pazienza, sopportazione. È una delle Dieci Perfezioni (→ _pāramī_).
   <<top,<- top>>
 
-kilesa, kilesā.::
+kilesa, kilesā.[[kilesa]]::
   Contaminazione; inquinante mentale; fattore mentale che oscura e
   contamina la mente. L’avidità (→ _lobha_), l’avversione (→ _dosa_) e
   la confusione (→ _moha_) sono le tre principali radici (→ _mūla_) non
@@ -634,36 +634,36 @@ kilesa, kilesā.::
   l’ipocrisia.
   <<top,<- top>>
 
-kusala.::
+kusala.[[kusala]]::
   Salutare, abile, buono, meritorio. Un’azione caratterizzata da questa
   qualità morale (_kusala-kamma_) produce alla fine risultati felici e
   favorevoli. L’azione caratterizzata dal suo opposto (_akusala-kamma_)
   conduce al dolore. Entrambe sono azioni intenzionali; → kamma.
   <<top,<- top>>
 
-kuṭī.::
+kuṭī.[[kuti]]::
   La piccola dimora del monaco buddhista; una capanna.
   <<top,<- top>>
 
-lobha.::
+lobha.[[lobha]]::
   Avidità, desiderio non salutare. Una delle tre radici (→ _mūla_) non
   salutari presenti nella mente (→ _kilesa_).
   <<top,<- top>>
 
-lokavidū.::
+lokavidū.[[lokavidu]]::
   “Conoscitore del mondo”, un epiteto del Buddha.
   <<top,<- top>>
 
-loma, lomā.::
+loma, lomā.[[loma]]::
   → Trentadue parti del corpo.
   <<top,<- top>>
 
-Luang Por::
+Luang Por[[luang-por]]::
   (thai: หลวงพ่อ). “Venerabile padre”; è un’espressione utilizzata in
   Thailandia per rivolgersi ai monaci anziani.
   <<top,<- top>>
 
-magga.::
+magga.[[magga]]::
   Sentiero. Più specificamente, il Sentiero che conduce alla cessazione
   della sofferenza e della tensione. I quattro sentieri trascendenti – o
   meglio il sentiero con quattro livelli di affinamento – sono i
@@ -673,50 +673,50 @@ magga.::
   Sentiero; → _phala_; → Nibbāna.
   <<top,<- top>>
 
-mahat, mahā-.::
+mahat, mahā-.[[maha]]::
   “Grande, importante, superiore”. Nella gerarchia ecclesiastica
   thailandese è il titolo acquisito dopo aver sostenuto determinati
   esami in lingua pāli, avendo completato un programma di studi almeno
   fino al terzo anno.
   <<top,<- top>>
 
-mahāthera.::
+mahāthera.[[mahathera]]::
   “Grande anziano”; titolo onorifico automaticamente conferito a un
   _bhikkhu_ con almeno venti anni di vita monastica; → _thera_.
   <<top,<- top>>
 
-majjhimā-paṭipadā.::
+majjhimā-paṭipadā.[[majjhima-patipada]]::
   Via di Mezzo; → Nobile Ottuplice Sentiero.
   <<top,<- top>>
 
-māna.::
+māna.[[mana]]::
   Presunzione, orgoglio. È una delle cinque catene superiori
   (→ _saṃyojana_).
   <<top,<- top>>
 
-Māra.::
+Māra.[[mara]]::
   Letteralmente, “Colui che fa morire”, divinità che cerca di indurre
   il Buddha e i meditanti alla distrazione.
   <<top,<- top>>
 
-mettā.::
+mettā.[[metta]]::
   Gentilezza amorevole, benevolenza, cordialità, amichevolezza. Una
   delle quattro dimore divine (→ _brahmavihāra_) e una delle dieci
   perfezioni (→ _pāramī_).
   <<top,<- top>>
 
-moha.::
+moha.[[moha]]::
   Confusione; ignoranza (→ _avijjā_). Una delle tre radici (→ _mūla_)
   non salutari della mente.
   <<top,<- top>>
 
-muditā.::
+muditā.[[mudita]]::
   Gioia empatica e di apprezzamento. Il provare piacere per la felicità
   e il successo degli altri. È una delle quattro dimore divine
   (→ _brahmavihāra_).
   <<top,<- top>>
 
-mūla.::
+mūla.[[mula]]::
   Letteralmente, “radice”. Le condizioni fondamentali della mente che
   determinano la qualità morale, ossia salutare (→ _kusala_) o non
   salutare (→ _akusala_), delle azioni intenzionali (→ kamma). Le tre
@@ -726,16 +726,16 @@ mūla.::
   (→ _mettā_) e saggezza (→ _paññā_) sono i tre contrari di esse.
   <<top,<- top>>
 
-nāga.::
+nāga.[[naga]]::
   Categoria di esseri non umani dalle fattezze serpentine; elefanti; uno
   degli epiteti del Buddha.
   <<top,<- top>>
 
-nakha, nakhā.::
+nakha, nakhā.[[nakha]]::
   → trentadue parti del corpo.
   <<top,<- top>>
 
-nāma.::
+nāma.[[nama]]::
   Fenomeno mentale. È un termine che può riferirsi alla sensazione
   (→ _vedanā_), alla percezione (→ _saññā_), all’intenzione o volizione
   (→ _cetanā_) e all’attenzione (_manasikāra_). Alcuni commentatori
@@ -743,25 +743,25 @@ nāma.::
   (→ _khandha_) mentali.
   <<top,<- top>>
 
-nāma-dhamma, nāma-dhammā.::
+nāma-dhamma, nāma-dhammā.[[nama-dhamma]]::
   Fenomeno mentale; → _nāma_.
   <<top,<- top>>
 
-ñāṇadassana.::
+ñāṇadassana.[[nanadassana]]::
   Conoscenza e visione, anche all’interno delle Quattro Nobili Verità
   (→ _ariya-sacca_).
   <<top,<- top>>
 
-ñāyapaṭipanna, ñāyapaṭipanno.::
+ñāyapaṭipanna, ñāyapaṭipanno.[[nayapatipanno]]::
   Coloro la cui pratica è connotata dalla conoscenza della Verità.
   <<top,<- top>>
 
-nekkhamma.::
+nekkhamma.[[nekkhamma]]::
   Rinuncia; libertà dal desiderio sensoriale. Una delle dieci perfezioni
   (→ _pāramī_).
   <<top,<- top>>
 
-Nibbāna.::
+Nibbāna.[[nibbana]]::
   (sanscrito: _Nirvāṇa_) La Liberazione finale da ogni sofferenza, lo
   scopo della pratica buddhista. La libertà della mente dagli influssi
   impuri (→ _āsava_), dagli inquinanti mentali o contaminazioni
@@ -775,13 +775,13 @@ Nibbāna.::
   → Risveglio; in altri, addita il transito finale di un → _arahant_.
   <<top,<- top>>
 
-nibbidā.::
+nibbidā.[[nibbida]]::
   Disincanto, stanchezza; voltare abilmente le spalle al mondo
   condizionato del → _saṃsāra_ per volgersi verso l’incondizionato, il
   trascendente, il → Nibbāna.
   <<top,<- top>>
 
-nimitta, nimittaṃ.::
+nimitta, nimittaṃ.[[nimitta]]::
   Segno mentale, immagine o visione che può sorgere durante la
   meditazione. _Uggaha-nimitta_ si riferisce alle immagini che sorgono
   spontaneamente durante la meditazione. _Paribhāga_-_nimitta_ è
@@ -789,11 +789,11 @@ nimitta, nimittaṃ.::
   mentale.
   <<top,<- top>>
 
-nirodha.::
+nirodha.[[nirodha]]::
   Cessazione, dispersione, arresto.
   <<top,<- top>>
 
-nīvaraṇa.::
+nīvaraṇa.[[nivarana]]::
   Impedimento o ostacolo alla pratica meditativa della concentrazione e
   al progresso spirituale. Essi sono cinque: il desiderio sensoriale
   (→ _kāmacchanda_), la malevolenza (_vyāpāda_, _abhijjhā_), la pigrizia
@@ -809,31 +809,31 @@ Nobile Ottuplice Sentiero.[[ottuplice]]::
   (_majjhimā_-_paṭipadā_) insegnata dal Buddha; → _magga_.
   <<top,<- top>>
 
-Nobili Verità.::
+Nobili Verità.[[nobili-verita]]::
   → _ariya-sacca_.
   <<top,<- top>>
 
-ogha.::
+ogha.[[ogha]]::
   “Inondazione”; un altro termine per indicare i quattro influssi
   impuri (→ _āsava_) della brama sensoriale (→ _kāma_), del divenire
   (→ _bhava_), della visione errata (→ _diṭṭhi_) e dell’ignoranza
   (→ _avijjā_).
   <<top,<- top>>
 
-opanayika, opanayiko.::
+opanayika, opanayiko.[[opanayiko]]::
   “Che conduce all’interno”, degno di essere realizzato e condotto
   all’interno della mente; un attributo del Dhamma.
   <<top,<- top>>
 
-Otto Precetti.::
+Otto Precetti.[[otto-precetti]]::
   → Precetti.
   <<top,<- top>>
 
-Ottuplice Sentiero.::
+Ottuplice Sentiero.[[ottuplice-sentiero]]::
   → Nobile Ottuplice Sentiero.
   <<top,<- top>>
 
-pabbajjā.::
+pabbajjā.[[pabbajja]]::
   Nei testi buddhisti in pāli indica il passaggio dalla vita laica a
   quella di monaco privo di dimora, e può essere reso con
   l’“abbandono” della vita laica. _Pabbajjā_ è, appunto, un termine
@@ -841,12 +841,12 @@ pabbajjā.::
   quale si diventa novizi o _sāmaṇera_; → _upasampadā_.
   <<top,<- top>>
 
-paccatta, paccattaṃ.::
+paccatta, paccattaṃ.[[paccattam]]::
   Da sperimentare individualmente e personalmente (_veditabba_) da parte
   dei saggi (_viññūhi_).
   <<top,<- top>>
 
-Pacceka-buddha.::
+Pacceka-buddha.[[pacceka-buddha]]::
   Un Buddha solitario. Una persona che, come il Buddha, ha conseguito il
   → Risveglio senza beneficiare dell’insegnamento di un maestro, ma che
   non possiede sufficienti → _pāramī_ per insegnare agli altri la
@@ -854,20 +854,20 @@ Pacceka-buddha.::
   in solitudine.
   <<top,<- top>>
 
-pahkao.::
+pahkao.[[pahkao]]::
   → _anāgārika_.
   <<top,<- top>>
 
-paññā.::
+paññā.[[panna]]::
   Saggezza, discernimento, visione profonda. Una delle dieci perfezioni
   (→ _pāramī_).
   <<top,<- top>>
 
-paññā-vimutti.::
+paññā-vimutti.[[panna-vimutti]]::
   → _vimutti_.
   <<top,<- top>>
 
-paramattha-dhamma.::
+paramattha-dhamma.[[paramattha-dhamma]]::
   “Verità o Realtà Ultima”, il Dhamma o i _dhamma_ descritti in
   termini di significato ultimo, non di mera convenzione.
   <<top,<- top>>
@@ -881,17 +881,17 @@ pāramī.[[parami]]::
   amorevole (→ _mettā_) ed equanimità (→ _upekkhā_).
   <<top,<- top>>
 
-Parinibbāna.::
+Parinibbāna.[[parinibbana]]::
   Nibbāna completo o definitivo, un termine associato alla morte fisica
   del Buddha.
   <<top,<- top>>
 
-pariyatti.::
+pariyatti.[[pariyatti]]::
   Comprensione teorica del Dhamma, ottenuta mediante la lettura, lo
   studio, l’apprendimento; → _paṭipatti_, → _paṭivedha_.
   <<top,<- top>>
 
-paṭiccasamuppāda.::
+paṭiccasamuppāda.[[paticcasamuppada]]::
   Coproduzione condizionata, genesi interdipendente. Una tabella che
   descrive il modo in cui i cinque aggregati (_khandha_) e le sei basi
   sensoriali (_āyatana_) interagiscono dopo il contatto (_phassa_) con
@@ -899,13 +899,13 @@ paṭiccasamuppāda.::
   tensione e alla sofferenza (_dukkha_).
   <<top,<- top>>
 
-Pāṭimokkha.::
+Pāṭimokkha.[[patimokkha]]::
   Il codice fondamentale della disciplina monastica, che viene recitato
   ogni due settimane in lingua pāli e che consiste di 227 regole o
   precetti per i → _bhikkhu_ e di 331 per le → _bhikkhunī_; → Vinaya.
   <<top,<- top>>
 
-paṭipadā.::
+paṭipadā.[[patipada]]::
   Strada, via, sentiero; i mezzi per raggiungere lo scopo o la
   destinazione finale, il → Nibbāna. Di solito in riferimento alla “Via
   di Mezzo” (_majjhimā_-_paṭipadā_), il → Nobile Ottuplice Sentiero che
@@ -914,26 +914,26 @@ paṭipadā.::
   (_dukkha-nirodha-gāminī-paṭipadā_); → _ariya-sacca_.
   <<top,<- top>>
 
-paṭipatti.::
+paṭipatti.[[patipatti]]::
   La pratica del Dhamma, opposta alla mera conoscenza teorica;
   → _pariyatti_, → _paṭivedha_.
   <<top,<- top>>
 
-paṭivedha.::
+paṭivedha.[[pativedha]]::
   Realizzazione diretta, in prima persona, del Dhamma; → _pariyatti_,
   → _paṭipatti_.
   <<top,<- top>>
 
-phala.::
+phala.[[phala]]::
   Frutto. Più specificamente, il Frutto di uno dei quattro Sentieri
   della trascendenza o livelli dell’ → Illuminazione; → _magga_.
   <<top,<- top>>
 
-phassa.::
+phassa.[[phassa]]::
   Contatto sensoriale; → _paṭiccasamuppāda_.
   <<top,<- top>>
 
-pīti.::
+pīti.[[piti]]::
   Gioia. Il terzo fattore dell’assorbimento meditativo (→ _jhāna_).
   <<top,<- top>>
 
@@ -965,33 +965,33 @@ Precetti.[[precetti]]::
   dettagliatamente esposti nel → _Pāṭimokkha_.
   <<top,<- top>>
 
-puthujjana.::
+puthujjana.[[puthujjana]]::
   Una persona comune, ordinaria, non illuminata; un essere “mondano”
   che non ha ancora realizzato alcuna → Illuminazione;
   → _ariya-puggala_, → _magga_.
   <<top,<- top>>
 
-quattro basi dell’attaccamento.::
+quattro basi dell’attaccamento.[[quattro-basi]]::
   → _upādāna_.
   <<top,<- top>>
 
-quattro fondamenti della consapevolezza.::
+quattro fondamenti della consapevolezza.[[quattro-fondamenti]]::
   → _satipaṭṭhāna_.
   <<top,<- top>>
 
-Quattro Nobili Verità.::
+Quattro Nobili Verità.[[quattro-nobili]]::
   → _ariya-sacca_
   <<top,<- top>>
 
-Retta Visione.::
+Retta Visione.[[retta-visione]]::
   → _sammā-diṭṭhi_.
   <<top,<- top>>
 
-Risveglio.::
+Risveglio.[[risveglio]]::
   → _bodhi_.
   <<top,<- top>>
 
-rūpa.::
+rūpa.[[rupa]]::
   Fenomeno fisico; dato sensoriale. Il significato basilare di questo
   termine è “forma”. È usato in vari contesti differenti, in ognuno
   dei quali assume sfumature diverse. Nell’elenco degli oggetti dei
@@ -1002,16 +1002,16 @@ rūpa.::
   in opposizione ai fenomeni mentali (→ _nāma_).
   <<top,<- top>>
 
-rūpa-dhamma.::
+rūpa-dhamma.[[rupa-dhamma]]::
   Il mondo fisico, opposto a _nāma-dhamma_; → _rūpa_, _nāma_.
   <<top,<- top>>
 
-sabhāva.::
+sabhāva.[[sabhava]]::
   Letteralmente, “natura propria”. Principio o condizione della
   natura, qualcosa che è come veramente è; → _sabhāva-dhamma_.
   <<top,<- top>>
 
-sabhāva-dhamma.::
+sabhāva-dhamma.[[sabhava-dhamma]]::
   Fenomeno condizionato della natura; qualsiasi fenomeno, proprietà o
   qualità in quanto sperimentata in se stessa e di per se stessa. Nella
   Tradizione Thailandese della Foresta si riferisce ai fenomeni naturali
@@ -1019,34 +1019,34 @@ sabhāva-dhamma.::
   del Dhamma; → _sabhāva_.
   <<top,<- top>>
 
-sacca.::
+sacca.[[sacca]]::
   Verità, sincerità. Una delle dieci perfezioni (→ _pāramī_).
   <<top,<- top>>
 
-sacca-dhamma.::
+sacca-dhamma.[[sacca-dhamma]]::
   Verità Ultima; → _sacca_.
   <<top,<- top>>
 
-saddhā.::
+saddhā.[[saddha]]::
   Fiducia, fede. Una fiducia nel Buddha che fa sorgere la volontà di
   mettere in pratica il suo insegnamento. La fede diviene incrollabile
   allorché si raggiunge la condizione di → _sotāpanna_, coincidente con
   il primo stadio dell’ → Illuminazione.
   <<top,<- top>>
 
-sādhu.::
+sādhu.[[sadhu]]::
   È un’esclamazione che significa “Bene!” e che esprime apprezzamento
   o che si è d’accordo.
   <<top,<- top>>
 
-sakadāgāmin, sakadāgāmī.::
+sakadāgāmin, sakadāgāmī.[[sakadagami]]::
   Il secondo stadio dell’Illuminazione, “Chi torna una sola volta” a
   esistere in forma umana prima di conseguire l’Illuminazione, dopo aver
   distrutto le prime tre catene inferiori e attenuato le altre due
   (→ _saṃyojana_) che legano la mente al ciclo della rinascita.
   <<top,<- top>>
 
-sakkāya-diṭṭhi.::
+sakkāya-diṭṭhi.[[sakkaya-ditthi]]::
   Convinzione che induce l’identificazione con il sé, con l’io.
   L’opinione che erroneamente identifica ogni → _khandha_ come “sé”. È
   la prima delle dieci catene (→ _saṃyojana_); l’abbandono di
@@ -1054,61 +1054,61 @@ sakkāya-diṭṭhi.::
   Corrente” (→ _sotāpanna_).
   <<top,<- top>>
 
-samādhi.::
+samādhi.[[samadhi]]::
   Concentrazione, unificazione della mente, stabilità mentale; stato di
   calma concentrata che risulta dalla pratica di meditazione.
   <<top,<- top>>
 
-samaṇa.::
+samaṇa.[[samana]]::
   Un contemplativo. Letteralmente, chi abbandona gli obblighi
   convenzionali della vita sociale per un modo di vivere più in sintonia
   con la natura.
   <<top,<- top>>
 
-sāmaṇera.::
+sāmaṇera.[[samanera]]::
   Letteralmente, “piccolo → _samaṇa_”, un monaco novizio che osserva
   Dieci → Precetti ed è candidato per l’ammissione nell’Ordine dei
   → _bhikkhu_; → _pabbajjā_, → _upasampadā_.
   <<top,<- top>>
 
-sāmañña-lakkhaṇa.::
+sāmañña-lakkhaṇa.[[samanna-lakkhana]]::
   Indica che tutto è identico nei termini delle Tre Caratteristiche
   (→ _tilakkhaṇa_), ossia impermanenza (→ _anicca_), carattere
   insoddisfacente (→ _dukkha_) e non-sé (→ _anatta_).
   <<top,<- top>>
 
-samāpatti.::
+samāpatti.[[samapatti]]::
   “Ottenimento”. Termine che indica i quattro assorbimenti
   immateriali, o i Frutti del Sentiero nei vari stadi dell’
   → Illuminazione.
   <<top,<- top>>
 
-samatha.::
+samatha.[[samatha]]::
   Calma concentrata, tranquillità; → _samādhi_, → _jhāna_.
   <<top,<- top>>
 
-sāmīcipaṭipanna, sāmīcipaṭipanno.::
+sāmīcipaṭipanna, sāmīcipaṭipanno.[[samicipatipanno]]::
   Colui la cui pratica è connotata da completa rettitudine o integrità.
   <<top,<- top>>
 
-sammā-diṭṭhi.::
+sammā-diṭṭhi.[[samma-ditthi]]::
   Retta Visione, il primo fattore del → Nobile Ottuplice Sentiero, il
   Sentiero che conduce al Nibbāna. Nel suo significato più alto, avere
   Retta Visione significa comprendere le Quattro Nobili Verità
   (→ _ariya-sacca_).
   <<top,<- top>>
 
-sammuti.::
+sammuti.[[sammuti]]::
   Realtà convenzionale, convenzione, verità relativa, supposizione;
   tutto quello che viene condotto a esistenza da parte della mente.
   <<top,<- top>>
 
-sammuti-sacca.::
+sammuti-sacca.[[sammuti-sacca]]::
   Realtà convenzionale, dualistica o nominale; la realtà dei nomi, delle
   determinazioni.
   <<top,<- top>>
 
-sampajañña.::
+sampajañña.[[sampajanna]]::
   “Chiara comprensione”, consapevolezza di sé, autorammemorazione,
   attenzione, consapevolezza, presenza mentale, comprensione profonda.
   _Sampajañña_ è spesso usato in coppia con _sati_. Si potrebbe dire che
@@ -1118,13 +1118,13 @@ sampajañña.::
   meno immediata, più “dialogata”; → _sati_.
   <<top,<- top>>
 
-saṃsāra.::
+saṃsāra.[[samsara]]::
   Flusso del Divenire o dell’Esistenza; un vagare perpetuo, il continuo
   processo del nascere, invecchiare e morire. Ciclo dei fenomeni
   condizionati, sia mentali sia materiali; → _vaṭṭa_.
   <<top,<- top>>
 
-samudaya.::
+samudaya.[[samudaya]]::
   Origine, originazione, il sorgere; causa.
   <<top,<- top>>
 
@@ -1146,7 +1146,7 @@ saṃyojana.[[samyojana]]::
   superiori; → _anusaya_, → _saṃsāra_, → _vaṭṭa_.
   <<top,<- top>>
 
-Saṅgha.::
+Saṅgha.[[sangha]]::
   A livello convenzionale (→ _sammuti_), questo termine indica la
   comunità dei monaci buddhisti e delle monache; a livello ideale,
   indica quei seguaci del Buddha che, laici o monaci, hanno raggiunto
@@ -1155,31 +1155,31 @@ Saṅgha.::
   costituiscono così l’ → _ariya_ Saṅgha__.__
   <<top,<- top>>
 
-saṅghāti.::
+saṅghāti.[[sanghati]]::
   → veste monastica.
   <<top,<- top>>
 
-saṅkhāra.::
+saṅkhāra.[[sankhara]]::
   Formazione; fenomeno condizionato. Il termine può essere riferito più
   specificamente alle formazioni di pensiero all’interno della mente,
   uno dei cinque → _khandha_.
   <<top,<- top>>
 
-saṅkhata-dhamma.::
+saṅkhata-dhamma.[[sankhata-dhamma]]::
   Fenomeno condizionato, realtà convenzionale, in contrapposizione con
   l’incondizionato (_asaṅkhata-dhamma_), ossia il → Nibbāna.
   <<top,<- top>>
 
-saññā.::
+saññā.[[sanna]]::
   Percezione; atto del riconoscere in base a un ricordo; → _khandha_.
   <<top,<- top>>
 
-sāsana.::
+sāsana.[[sasana]]::
   Insegnamento, dispensazione, dottrina ed eredità del Buddha; la scuola
   spirituale buddhista; → Dhamma-Vinaya.
   <<top,<- top>>
 
-sati.::
+sati.[[sati]]::
   Consapevolezza, presenza mentale, attenzione; il termine, molto
   importante nella pratica meditativa buddhista, può significare anche
   “memoria”.
@@ -1195,7 +1195,7 @@ satipaṭṭhāna.[[satipatthana]]::
   si presentano.
   <<top,<- top>>
 
-sekha.::
+sekha.[[sekha]]::
   Chi si sottopone all’addestramento spirituale; il termine si riferisce
   ai sette _ariya-sāvaka_ o → _ariya-puggala_ che non sono ancora
   diventati → _arahant_. Tutti gli esseri non nobili sono classificati
@@ -1203,16 +1203,16 @@ sekha.::
   addestrati; → _asekha_.
   <<top,<- top>>
 
-Sette Fattori del Risveglio.::
+Sette Fattori del Risveglio.[[sette-fattori]]::
   → _bojjhaṅga_.
   <<top,<- top>>
 
-Siddhattha Gotama.::
+Siddhattha Gotama.[[gotama]]::
   Il nome proprio del Buddha storico; nei testi canonici più antichi si
   menziona il Buddha solo con il nome di Gotama.
   <<top,<- top>>
 
-sīla.::
+sīla.[[sila]]::
   Virtù, moralità; precetto. Purezza morale la quale evita che si
   compiano azioni non salutari. Si riferisce pure ai precetti
   dell’addestramento che consentono di astenersi da azioni nocive.
@@ -1221,16 +1221,16 @@ sīla.::
   tesori (→ _dhana_) e il primo dei tre livelli delle azioni meritorie.
   <<top,<- top>>
 
-sīlabbata-parāmāsa.::
+sīlabbata-parāmāsa.[[silabbata-paramasa]]::
   → _saṃyojana_.
   <<top,<- top>>
 
-sīla-dhamma.::
+sīla-dhamma.[[sila-dhamma]]::
   Un altro modo per indicare gli insegnamenti morali del buddhismo. A
   livello personale, “virtù (e conoscenza) della verità”.
   <<top,<- top>>
 
-sotāpanna.::
+sotāpanna.[[sotapanna]]::
   “Chi è entrato nella Corrente” e ha così conseguito il primo livello
   dell’Illuminazione; il _sotāpanna_ ha abbandonato le prime tre catene
   (→ _saṃyojana_) che legano la mente al ciclo della rinascita ed è
@@ -1239,17 +1239,17 @@ sotāpanna.::
   umano o in altri più elevati.
   <<top,<- top>>
 
-sukha.::
+sukha.[[sukha]]::
   Piacere; benessere; soddisfazione, felicità. Durante la meditazione,
   una qualità della mente che raggiunge piena maturità con lo sviluppo
   dei → _jhāna_.
   <<top,<- top>>
 
-supaṭipanna, supaṭipanno.::
+supaṭipanna, supaṭipanno.[[supatipanno]]::
   Colui che pratica bene.
   <<top,<- top>>
 
-sutta.::
+sutta.[[sutta]]::
   Letteralmente, “filo”. Un discorso o sermone del Buddha o dei
   discepoli suoi contemporanei. Dopo la morte del Buddha i _sutta_
   furono trasmessi oralmente per vari secoli e infine messi per iscritto
@@ -1261,27 +1261,27 @@ sutta.::
   antiche testimonianze degli insegnamenti del Buddha.
   <<top,<- top>>
 
-Sutta-Piṭaka.::
+Sutta-Piṭaka.[[sutta-pitaka]]::
   → _sutta_.
   <<top,<- top>>
 
-taco.::
+taco.[[taco]]::
   → Trentadue parti del corpo.
   <<top,<- top>>
 
-taṇhā.::
+taṇhā.[[tanha]]::
   Letteralmente, “sete”. Bramosia per gli oggetti dei sensi, per
   l’esistenza o per la non esistenza; → _bhava_, → _lobha_.
   <<top,<- top>>
 
-Tathāgata.::
+Tathāgata.[[tathagata]]::
   Letteralmente, “così andato”, “così venuto”. Un termine utilizzato
   nell’antica India per una persona che ha realizzato il più alto scopo
   spirituale. Nel buddhismo indica di solito il Buddha, anche se
   talvolta può essere riferito ai suoi discepoli divenuti → _arahant_.
   <<top,<- top>>
 
-thera.::
+thera.[[thera]]::
   Letteralmente, “anziano”; chi è monaco da almeno dieci anni.
   <<top,<- top>>
 
@@ -1291,29 +1291,29 @@ tilakkhaṇa.[[tilakkhana]]::
   (→ _dukkha_) e non-sé (→ _anatta_).
   <<top,<- top>>
 
-Tipiṭaka.::
+Tipiṭaka.[[tipitaka]]::
   Il Canone buddhista in pāli. Letteralmente, i “tre canestri”, in
   riferimento alle tre principali suddivisioni del Canone: il
   → _Vinaya-Piṭaka_ (le regole disciplinari), il → _Sutta-Piṭaka_ (i
   discorsi) e l’ → _Abhidhamma-Piṭaka_ (i trattati filosofici).
   <<top,<- top>>
 
-tiratana.::
+tiratana.[[tiratana]]::
   La “Triplice Gemma”, composta dal Buddha, dal Dhamma e dal Saṅgha,
   ai quali tutti i buddhisti si rivolgono come a dei rifugi;
   → _tisaraṇa_.
   <<top,<- top>>
 
-tisaraṇa.::
+tisaraṇa.[[tisarana]]::
   Il “Triplice Rifugio”, il Buddha, il Dhamma e il Saṅgha;
   → _tiratana_.
   <<top,<- top>>
 
-Tre Caratteristiche.::
+Tre Caratteristiche.[[tre-caratteristiche]]::
   → _tilakkhaṇa_.
   <<top,<- top>>
 
-Trentadue parti del corpo.::
+Trentadue parti del corpo.[[trentadue-parti]]::
   Un tema di meditazione il quale prevede che si investighino le parti
   del corpo, quali i capelli (_kesā_), i peli (_lomā_), le unghie
   (_nakhā_), i denti (_dantā_), la pelle (_taco_) e così via, in
@@ -1323,17 +1323,17 @@ Trentadue parti del corpo.::
   monaca appena ordinati dal loro precettore.
   <<top,<- top>>
 
-tudong::
+tudong[[tudong]]::
   (thai: ธุดงค์). La pratica ascetica di errare a piedi, nelle campagne,
   in pellegrinaggio o alla ricerca di posti tranquilli per ritiri
   solitari, vivendo di elemosina.
   <<top,<- top>>
 
-ujupaṭipanna, ujupaṭipanno.::
+ujupaṭipanna, ujupaṭipanno.[[ujupatipanno]]::
   Colui la cui pratica è retta o diretta.
   <<top,<- top>>
 
-upacāra samādhi.::
+upacāra samādhi.[[upacara-samadhi]]::
   “Concentrazione di accesso”; un livello di concentrazione precedente
   i → _jhāna_.
   <<top,<- top>>
@@ -1346,25 +1346,25 @@ upādāna.[[upadana]]::
   alle opinioni; e _attavādupādāna_, l’attaccamento all’idea del sé.
   <<top,<- top>>
 
-upāsaka.::
+upāsaka.[[upasaka]]::
   Un fedele laico.
   <<top,<- top>>
 
-upasampadā.::
+upasampadā.[[upasampada]]::
   Accettazione; ordinazione piena di un → _bhikkhu_ o di una
   → _bhikkhunī_; → _pabbajjā_.
   <<top,<- top>>
 
-upāsikā.::
+upāsikā.[[upasika]]::
   Una fedele laica.
   <<top,<- top>>
 
-upekkhā.::
+upekkhā.[[upekkha]]::
   Equanimità. È una delle quattro dimore divine (→ _brahmavihāra_) e una
   delle dieci perfezioni (→ _pāramī_).
   <<top,<- top>>
 
-uposatha.::
+uposatha.[[uposatha]]::
   Giorno di osservanza lunare, corrispondente alle fasi lunari, durante
   il quale i laici buddhisti si riuniscono per ascoltare il → Dhamma e
   per osservare gli Otto → Precetti. Negli _uposatha_ di luna piena e di
@@ -1372,11 +1372,11 @@ uposatha.::
   → _Pāṭimokkha_.
   <<top,<- top>>
 
-uttarā-saṅgha.::
+uttarā-saṅgha.[[uttara-sangha]]::
   → veste monastica.
   <<top,<- top>>
 
-vaṭṭa.::
+vaṭṭa.[[vatta]]::
   “Ciò che gira”, quel che va avanti, o è consueto, ossia dovere,
   servizio, consuetudine. In contesto buddhista si riferisce al ciclo
   della nascita, della morte e della rinascita. Ciò indica sia la morte
@@ -1390,7 +1390,7 @@ vedanā.[[vedana]]::
   (_adukkham-asukha-vedanā_); → _khandha_.
   <<top,<- top>>
 
-veste monastica.::
+veste monastica.[[veste-monastica]]::
   La veste monastica dei monaci _theravādin_ che copre la parte
   superiore del corpo è un ampio rettangolo di stoffa (in pāli
   _uttarā-saṅgha_; in thailandese _jeewon_, จีวร) che si avvolge attorno
@@ -1403,16 +1403,16 @@ veste monastica.::
   portata ripiegata lungo la spalla sinistra in situazioni cerimoniali.
   <<top,<- top>>
 
-Via di Mezzo.::
+Via di Mezzo.[[via-di-mezzo]]::
   → Nobile Ottuplice Sentiero.
   <<top,<- top>>
 
-vibhavataṇhā.::
+vibhavataṇhā.[[vibhavatanha]]::
   Bramosia per la non esistenza; desiderio di non divenire, di non
   essere.
   <<top,<- top>>
 
-vicāra.::
+vicāra.[[vicara]]::
   Mantenimento dell’attenzione. Nella meditazione il _vicāra_ è il
   fattore mentale che consente all’attenzione di muoversi intorno
   all’oggetto di meditazione prescelto e di esplorarlo. Il _vicāra_,
@@ -1420,21 +1420,21 @@ vicāra.::
   la piena maturità con lo sviluppo dei → _jhāna_.
   <<top,<- top>>
 
-vihāra.::
+vihāra.[[vihara]]::
   Un’abitazione, un luogo in cui dimorare. Di solito si riferisce al
   luogo in cui dimorano i monaci, ossia un monastero.
   <<top,<- top>>
 
-vijjā.::
+vijjā.[[vijja]]::
   Conoscenza genuina, più specificamente facoltà cognitiva sviluppata
   tramite la pratica di meditazione e il discernimento.
   <<top,<- top>>
 
-vīmaṃsā.::
+vīmaṃsā.[[vimamsa]]::
   Investigazione, indagine; → _iddhipāda_.
   <<top,<- top>>
 
-vimutti.::
+vimutti.[[vimutti]]::
   Liberazione, libertà dalle formazioni e dalle convenzioni della mente.
   Nei _sutta_ si parla di Liberazione per mezzo del discernimento o
   saggezza (_paññā-vimutti_), quando si descrive la mente di un
@@ -1444,7 +1444,7 @@ vimutti.::
   dei → _jhāna_ e delle quattro dimore divine (→ _brahmavihāra_).
   <<top,<- top>>
 
-Vinaya.::
+Vinaya.[[vinaya]]::
   Il codice della disciplina monastica buddhista; letteralmente, “che
   conduce fuori”, perché l’osservanza delle regole “conduce fuori”
   dagli stati non salutari della mente. Si può aggiungere che esso
@@ -1456,12 +1456,12 @@ Vinaya.::
   insegnamento.
   <<top,<- top>>
 
-viññāṇa.::
+viññāṇa.[[vinnana]]::
   Coscienza, cognizione; l’atto di conoscere i dati sensoriali e gli
   stati mentali che si presentano; → _khandha_.
   <<top,<- top>>
 
-vipassanā.::
+vipassanā.[[vipassana]]::
   Visione profonda di natura intuitiva dei fenomeni fisici e mentali, e
   del loro sorgere e scomparire, vedendoli per quello che in realtà sono
   in sé e per sé, nei termini delle Tre Caratteristiche (→ _tilakkhaṇa_)
@@ -1469,7 +1469,7 @@ vipassanā.::
   di cessazione della sofferenza (→ _ariya-sacca_).
   <<top,<- top>>
 
-vipassanūpakkilesa.::
+vipassanūpakkilesa.[[vipassanupakkilesa]]::
   “Contaminazione della visione profonda”. Esperienza intensa che può
   verificarsi durante la meditazione e che può indurre a pensare che si
   sia raggiunta la fine del Sentiero. L’elenco tradizionale comprende
@@ -1480,13 +1480,13 @@ vipassanūpakkilesa.::
   alle apparenze (_nikanti_); → _vipassanā_.
   <<top,<- top>>
 
-viriya.::
+viriya.[[viriya]]::
   Perseveranza, energia. È una delle dieci perfezioni (→ _pāramī_), dei
   cinque poteri (→ _bala_) e delle cinque facoltà (→ _indriya_);
   → _bodhi-pakkhiya-dhamma_.
   <<top,<- top>>
 
-vitakka.::
+vitakka.[[vitakka]]::
   Applicazione dell’attenzione. Nella meditazione il _vitakka_ è il
   fattore mentale per mezzo del quale l’attenzione viene condotta
   sull’oggetto di meditazione prescelto. Il _vitakka_, assieme al
@@ -1494,7 +1494,7 @@ vitakka.::
   maturità con lo sviluppo dei → _jhāna_.
   <<top,<- top>>
 
-yarm::
+yarm[[yarm]]::
   (thai: ย่าม). Borsa tipica utilizzata dai monaci.
   <<top,<- top>>
 

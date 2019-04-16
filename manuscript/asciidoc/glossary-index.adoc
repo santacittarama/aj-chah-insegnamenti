@@ -1,54 +1,306 @@
 
-<<a,A>> <<b,B>> <<c,C>> <<d,D>> <<e,E>> <<f,F>> <<g,G>> <<h,H>> <<i,I>> <<j,J>> <<k,K>> <<l,L>> <<m,M>> <<n,N>> <<o,O>> <<p,P>> <<q,Q>> <<r,R>> <<s,S>> <<t,T>> <<u,U>> <<v,V>> <<w,W>>
+<<a,A>> <<b,B>> <<c,C>> <<d,D>> <<e,E>> <<f,F>> <<g,G>> <<h,H>> <<i,I>> <<j,J>> <<k,K>> <<l,L>> <<m,M>> <<n,N>> <<o,O>> <<p,P>> <<q,Q>> <<r,R>> <<s,S>> <<t,T>> <<u,U>> <<v,V>> <<y,Y>>
 
 *A*[[a]]
 
 - <<abhidhamma,Abhidhamma>>
-- <<anicca,anicca>>
+- <<acariya,ācariya>>
+- <<adhitthana,adhiṭṭhāna>>
+- <<ajahn,ajahn>>
+- <<ajivaka,ājīvaka>>
+- <<akusala,akusala>>
+- <<alara-kalama,Ālāra Kālāma>>
+- <<anagami,anāgāmin, anāgāmī>>
+- <<anagarika,anāgārika>>
+- <<anapanasati,ānāpānasati>>
+- <<anatta,anatta, anattā>>
+- <<anicca,anicca, aniccā>>
+- <<anjali,añjali>>
+- <<antara-vasaka,antara-vāsaka>>
+- <<anupubbi-katha,ānupubbi-kathā>>
+- <<anusaya,anusaya>>
+- <<arahant,arahant>>
+- <<arammana,ārammaṇa>>
+- <<ariya,ariya>>
+- <<ariya-puggala,ariya-puggala>>
+- <<ariya-sacca,ariya-sacca, ariya-saccāni>>
+- <<asankhata-dhamma,asaṅkhata-dhamma>>
+- <<asava,āsava>>
+- <<asekha,asekha>>
+- <<asubha,asubha>>
+- <<atta,atta, attā>>
+- <<avijja,avijjā>>
+- <<ayatana,āyatana>>
 
 *B*[[b]]
 
-- <<borapet,borapet>>
+- <<bala,bala>>
+- <<bhante,bhante>>
+- <<bhava,bhava>>
+- <<bhavana,bhāvanā>>
+- <<bhava-tanha,bhava-taṇhā>>
+- <<bhikkhu,bhikkhu>>
+- <<bhikkhuni,bhikkhunī>>
+- <<bhikkhu-sangha,bhikkhu-saṅgha>>
+- <<bodhi,bodhi>>
+- <<bodhi-pakkhiya-dhamma,bodhi-pakkhiya-dhamma>>
+- <<bodhisatta,bodhisatta>>
+- <<bojjhanga,bojjhaṅga>>
+- <<brahmacariya,brahmacariyā>>
+- <<brahmana,brāhmaṇa>>
+- <<brahmavihara,brahmavihāra>>
+- <<buddhasasana,Buddhasāsana>>
+- <<buddha,Buddha, Buddho>>
 
 *C*[[c]]
 
+- <<cankama,caṅkama>>
+- <<cetana,cetanā>>
+- <<cetasika,cetasika>>
+- <<ceto-vimutti,ceto-vimutti>>
+- <<chanda,chanda>>
+- <<cinque-precetti,Cinque Precetti>>
+- <<citta,citta>>
+- <<colui-che-conosce,Colui che Conosce>>
+
 *D*[[d]]
+
+- <<dana,dāna>>
+- <<danta,danta, dantā>>
+- <<devaduta,devadūta>>
+- <<dhamma,Dhamma>>
+- <<dhamma-mondani,dhamma mondani>>
+- <<dhamma-savana,dhamma-savaṇa>>
+- <<dhamma-vicaya,dhamma-vicaya>>
+- <<dhamma-vinaya,Dhamma-Vinaya>>
+- <<dhana,dhana>>
+- <<dhatu,dhātu>>
+- <<dhutanga,dhutaṅga>>
+- <<dieci-precetti,Dieci Precetti>>
+- <<ditthi,diṭṭhi>>
+- <<dosa,dosa>>
+- <<dukkha,dukkha>>
 
 *E*[[e]]
 
+- <<ekaggata,ekaggatā>>
+- <<entrata-nella-corrente,Entrata nella Corrente>>
+
 *F*[[f]]
+
+- <<fondamento-della-consapevolezza,fondamento della consapevolezza>>
 
 *G*[[g]]
 
+- <<glot,glot>>
+- <<gotrabhu,gotrabhū>>
+- <<gotrabhu-citta,gotrabhū-citta>>
+- <<gotrabhu-nana,gotrabhū-ñāṇa>>
+
 *H*[[h]]
+
+- <<hiri-ottappa,hiri-ottappa>>
 
 *I*[[i]]
 
+- <<iddhipada,iddhipāda>>
+- <<illuminazione,Illuminazione>>
+- <<indriya,indriya>>
+
 *J*[[j]]
+
+- <<jhana,jhāna>>
+- <<jongrom,jongrom>>
 
 *K*[[k]]
 
+- <<kalyanajana,kalyāṇajana>>
+- <<kalyanamitta,kalyāṇamitta>>
+- <<kamacchanda,kāmacchanda>>
+- <<kamatanha,kāmataṇhā>>
+- <<kamma,kamma>>
+- <<kammatthana,kammaṭṭhāna>>
+- <<kamupadana,kāmupādāna>>
+- <<karuna,karuṇā>>
+- <<kasina,kasiṇa>>
+- <<kayagatasati,kāyagatāsati>>
+- <<kesa,kesa, kesā>>
+- <<khandha,khandha, khandhā>>
+- <<khanti,khanti>>
+- <<kilesa,kilesa, kilesā>>
+- <<kusala,kusala>>
+- <<kuti,kuṭī>>
+
 *L*[[l]]
+
+- <<lobha,lobha>>
+- <<lokavidu,lokavidū>>
+- <<loma,loma, lomā>>
+- <<luang-por,Luang Por>>
 
 *M*[[m]]
 
+- <<magga,magga>>
+- <<maha,mahat, mahā->>
+- <<mahathera,mahāthera>>
+- <<majjhima-patipada,majjhimā-paṭipadā>>
+- <<mana,māna>>
+- <<mara,Māra>>
+- <<metta,mettā>>
+- <<moha,moha>>
+- <<mudita,muditā>>
+- <<mula,mūla>>
+
 *N*[[n]]
+
+- <<naga,nāga>>
+- <<nakha,nakha, nakhā>>
+- <<nama,nāma>>
+- <<nama-dhamma,nāma-dhamma, nāma-dhammā>>
+- <<nanadassana,ñāṇadassana>>
+- <<nayapatipanno,ñāyapaṭipanna, ñāyapaṭipanno>>
+- <<nekkhamma,nekkhamma>>
+- <<nibbana,Nibbāna>>
+- <<nibbida,nibbidā>>
+- <<nimitta,nimitta, nimittaṃ>>
+- <<nirodha,nirodha>>
+- <<nivarana,nīvaraṇa>>
+- <<ottuplice,Nobile Ottuplice Sentiero>>
+- <<nobili-verita,Nobili Verità>>
 
 *O*[[o]]
 
+- <<ogha,ogha>>
+- <<opanayiko,opanayika, opanayiko>>
+- <<otto-precetti,Otto Precetti>>
+- <<ottuplice-sentiero,Ottuplice Sentiero>>
+
 *P*[[p]]
+
+- <<pabbajja,pabbajjā>>
+- <<paccattam,paccatta, paccattaṃ>>
+- <<pacceka-buddha,Pacceka-buddha>>
+- <<pahkao,pahkao>>
+- <<panna,paññā>>
+- <<panna-vimutti,paññā-vimutti>>
+- <<paramattha-dhamma,paramattha-dhamma>>
+- <<parami,pāramī>>
+- <<parinibbana,Parinibbāna>>
+- <<pariyatti,pariyatti>>
+- <<paticcasamuppada,paṭiccasamuppāda>>
+- <<patimokkha,Pāṭimokkha>>
+- <<patipada,paṭipadā>>
+- <<patipatti,paṭipatti>>
+- <<pativedha,paṭivedha>>
+- <<phala,phala>>
+- <<phassa,phassa>>
+- <<piti,pīti>>
+- <<precetti,Precetti>>
+- <<puthujjana,puthujjana>>
 
 *Q*[[q]]
 
+- <<quattro-basi,quattro basi dell’attaccamento>>
+- <<quattro-fondamenti,quattro fondamenti della consapevolezza>>
+- <<quattro-nobili,Quattro Nobili Verità>>
+
 *R*[[r]]
+
+- <<retta-visione,Retta Visione>>
+- <<risveglio,Risveglio>>
+- <<rupa,rūpa>>
+- <<rupa-dhamma,rūpa-dhamma>>
 
 *S*[[s]]
 
+- <<sabhava,sabhāva>>
+- <<sabhava-dhamma,sabhāva-dhamma>>
+- <<sacca,sacca>>
+- <<sacca-dhamma,sacca-dhamma>>
+- <<saddha,saddhā>>
+- <<sadhu,sādhu>>
+- <<sakadagami,sakadāgāmin, sakadāgāmī>>
+- <<sakkaya-ditthi,sakkāya-diṭṭhi>>
+- <<samadhi,samādhi>>
+- <<samana,samaṇa>>
+- <<samanera,sāmaṇera>>
+- <<samanna-lakkhana,sāmañña-lakkhaṇa>>
+- <<samapatti,samāpatti>>
+- <<samatha,samatha>>
+- <<samicipatipanno,sāmīcipaṭipanna, sāmīcipaṭipanno>>
+- <<samma-ditthi,sammā-diṭṭhi>>
+- <<sammuti,sammuti>>
+- <<sammuti-sacca,sammuti-sacca>>
+- <<sampajanna,sampajañña>>
+- <<samsara,saṃsāra>>
+- <<samudaya,samudaya>>
+- <<samyojana,saṃyojana>>
+- <<sangha,Saṅgha>>
+- <<sanghati,saṅghāti>>
+- <<sankhara,saṅkhāra>>
+- <<sankhata-dhamma,saṅkhata-dhamma>>
+- <<sanna,saññā>>
+- <<sasana,sāsana>>
+- <<sati,sati>>
+- <<satipatthana,satipaṭṭhāna>>
+- <<sekha,sekha>>
+- <<sette-fattori,Sette Fattori del Risveglio>>
+- <<gotama,Siddhattha Gotama>>
+- <<sila,sīla>>
+- <<silabbata-paramasa,sīlabbata-parāmāsa>>
+- <<sila-dhamma,sīla-dhamma>>
+- <<sotapanna,sotāpanna>>
+- <<sukha,sukha>>
+- <<supatipanno,supaṭipanna, supaṭipanno>>
+- <<sutta,sutta>>
+- <<sutta-pitaka,Sutta-Piṭaka>>
+
 *T*[[t]]
+
+- <<taco,taco>>
+- <<tanha,taṇhā>>
+- <<tathagata,Tathāgata>>
+- <<thera,thera>>
+- <<tilakkhana,tilakkhaṇa>>
+- <<tipitaka,Tipiṭaka>>
+- <<tiratana,tiratana>>
+- <<tisarana,tisaraṇa>>
+- <<tre-caratteristiche,Tre Caratteristiche>>
+- <<trentadue-parti,Trentadue parti del corpo>>
+- <<tudong,tudong>>
 
 *U*[[u]]
 
+- <<ujupatipanno,ujupaṭipanna, ujupaṭipanno>>
+- <<upacara-samadhi,upacāra samādhi>>
+- <<upadana,upādāna>>
+- <<upasaka,upāsaka>>
+- <<upasampada,upasampadā>>
+- <<upasika,upāsikā>>
+- <<upekkha,upekkhā>>
+- <<uposatha,uposatha>>
+- <<uttara-sangha,uttarā-saṅgha>>
+
 *V*[[v]]
 
-*W*[[w]]
+- <<vatta,vaṭṭa>>
+- <<vedana,vedanā>>
+- <<veste-monastica,veste monastica>>
+- <<via-di-mezzo,Via di Mezzo>>
+- <<vibhavatanha,vibhavataṇhā>>
+- <<vicara,vicāra>>
+- <<vihara,vihāra>>
+- <<vijja,vijjā>>
+- <<vimamsa,vīmaṃsā>>
+- <<vimutti,vimutti>>
+- <<vinaya,Vinaya>>
+- <<vinnana,viññāṇa>>
+- <<vipassana,vipassanā>>
+- <<vipassanupakkilesa,vipassanūpakkilesa>>
+- <<viriya,viriya>>
+- <<vitakka,vitakka>>
+
+*Y*[[y]]
+
+- <<yarm,yarm>>
 
