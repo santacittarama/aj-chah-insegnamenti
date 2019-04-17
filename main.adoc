@@ -13,7 +13,7 @@
 :source: http://forestsangha.org/
 :keywords: Ajahn Chah, teachings, insegnamenti, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
 :copyright: CC-BY-NC-ND 4.0
-:isbn: 000-0-00000-000-0
+:isbn: 978-88-85706-10-1
 :identifier: isbn:{isbn}
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc

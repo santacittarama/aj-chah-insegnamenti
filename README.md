@@ -7,7 +7,7 @@ First edition
 
 ISBN for paperback: `978-888-5706-09-5`
 
-ISBN for ebooks: `000-000-0000-00-0`
+ISBN for ebooks: `978-88-85706-10-1`
 
 See the final files in the `publish/final/` folder.
 
