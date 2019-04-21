@@ -335,6 +335,12 @@ h4 {
   font-style: normal;
   text-transform: uppercase;
 }
+h1 em,
+h2 em,
+h3 em,
+h4 em {
+  font-style: italic;
+}
 h5,
 h6 {
   font-family: "Fontin Sans", sans-serif !important;
@@ -1337,6 +1343,12 @@ p.subtitle {
 }
 .blockquote.lpchah blockquote,
 .blockquote.dialogue blockquote {
+  font-style: normal;
+}
+.blockquote blockquote {
+  font-style: italic;
+}
+.blockquote blockquote em {
   font-style: normal;
 }
 .blockquote.quote blockquote {

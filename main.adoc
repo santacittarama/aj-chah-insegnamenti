@@ -3,7 +3,7 @@
 :author: Ajahn Chah
 :creator: {author}
 :version: v1.0
-:revdate: 2019-04-16
+:revdate: 2019-04-21
 :doctype: book
 :lang: it
 :pubs-logo: edizioni-santacittarama-w400.jpg
